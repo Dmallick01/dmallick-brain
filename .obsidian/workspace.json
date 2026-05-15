@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46570f3958cca02e",
+        "id": "6e0e54897393f839",
         "type": "tabs",
         "children": [
           {
-            "id": "1699b4e30d9725cf",
+            "id": "76e3c0cc88e98f64",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,7 +177,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "1699b4e30d9725cf",
+  "active": "76e3c0cc88e98f64",
   "lastOpenFiles": [
     "memory-brain/projects/doomsday-agent.md",
     "memory-brain/projects/nerve.md",
