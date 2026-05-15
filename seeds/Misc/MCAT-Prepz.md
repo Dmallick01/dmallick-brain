@@ -1,0 +1,30 @@
+---
+title: "MCAT Prepz"
+category: Misc
+status: unknown
+tags: ["misc"]
+source_path: "/Users/dibakarmallick/Downloads/MCAT Prepz"
+created: "2026-05-15"
+seeded_by: claude-cowork
+---
+
+# MCAT Prepz
+
+## Summary
+No description found.
+
+## Source
+`/Users/dibakarmallick/Downloads/MCAT Prepz`
+
+## Git
+—
+
+
+## Notes
+<!-- Add notes here -->
+
+## Connections
+<!-- Link to related seeds or Obsidian nodes -->
+
+## Log
+- 2026-05-15T03:40:05: [claude-cowork] Auto-seeded from filesystem scan

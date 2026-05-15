@@ -1,0 +1,943 @@
+# Vault Seed Index
+
+*Generated 2026-05-15T03:40:05 by claude-cowork*
+
+**Total seeds:** 922
+
+
+## Code (82)
+
+- [[seeds/Code/TenacitOS|TenacitOS]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/components/TenacitOS` *(in-progress)*
+- [[seeds/Code/TenacitOS_Unified|TenacitOS_Unified]] — `/Users/dibakarmallick/Desktop/TenacitOS_Unified` *(active)*
+- [[seeds/Code/UmiOCR-data|UmiOCR-data]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data` *(archived)*
+- [[seeds/Code/_pytest|_pytest]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/_pytest` *(active)*
+- [[seeds/Code/adapters|adapters]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/lib/adapters` *(active)*
+- [[seeds/Code/app|app]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app` *(in-progress)*
+- [[seeds/Code/assistant|assistant]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/assistant` *(active)*
+- [[seeds/Code/babel|babel]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/bundles/babel` *(archived)*
+- [[seeds/Code/backend|backend]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend` *(in-progress)*
+- [[seeds/Code/channels|channels]] — `/Users/dibakarmallick/Desktop/openclaw-mission-control-unified/src/lib/channels` *(active)*
+- [[seeds/Code/charts|charts]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/components/charts` *(in-progress)*
+- [[seeds/Code/cli|cli]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/cli` *(active)*
+- [[seeds/Code/ct-react-vite|ct-react-vite]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-react-vite` *(archived)*
+- [[seeds/Code/ct-react17|ct-react17]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-react17` *(archived)*
+- [[seeds/Code/ct-svelte-vite|ct-svelte-vite]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-svelte-vite` *(archived)*
+- [[seeds/Code/ct-svelte|ct-svelte]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-svelte` *(archived)*
+- [[seeds/Code/ct-vue-cli|ct-vue-cli]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-vue-cli` *(archived)*
+- [[seeds/Code/ct-vue-vite|ct-vue-vite]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-vue-vite` *(archived)*
+- [[seeds/Code/dashboard|dashboard]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/apps/dashboard` *(active)*
+- [[seeds/Code/electron|electron]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/electron` *(archived)*
+- [[seeds/Code/expect|expect]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/bundles/expect` *(archived)*
+- [[seeds/Code/flakiness-dashboard|flakiness-dashboard]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/flakiness-dashboard` *(archived)*
+- [[seeds/Code/flask|flask]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/flask` *(active)*
+- [[seeds/Code/frontend|frontend]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend` *(in-progress)*
+- [[seeds/Code/generate_types|generate_types]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/generate_types` *(archived)*
+- [[seeds/Code/github-api|github-api]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/github-api` *(archived)*
+- [[seeds/Code/html-reporter|html-reporter]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/html-reporter` *(archived)*
+- [[seeds/Code/injected|injected]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-core/src/injected` *(archived)*
+- [[seeds/Code/java|java]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/doclint/linting-code-snippets/java` *(archived)*
+- [[seeds/Code/jupyterlab-plotly|jupyterlab-plotly]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/share/jupyter/labextensions/jupyterlab-plotly` *(active)*
+- [[seeds/Code/mission-control-main|mission-control-main]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main` *(active)*
+- [[seeds/Code/mission-control-optimized|mission-control-optimized]] — `/Users/dibakarmallick/Desktop/mission-control-optimized` *(active)*
+- [[seeds/Code/mock-battery|mock-battery]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/mock-battery` *(archived)*
+- [[seeds/Code/mock-filesystem|mock-filesystem]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/mock-filesystem` *(archived)*
+- [[seeds/Code/openclaw-mission-control-master|openclaw-mission-control-master]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master` *(in-progress)*
+- [[seeds/Code/openclaw-mission-control-unified|openclaw-mission-control-unified]] — `/Users/dibakarmallick/Desktop/openclaw-mission-control-unified` *(active)*
+- [[seeds/Code/openclaw-unified|openclaw-unified]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified` *(active)*
+- [[seeds/Code/pandas|pandas]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pandas` *(active)*
+- [[seeds/Code/playwright-browser-chromium|playwright-browser-chromium]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-browser-chromium` *(archived)*
+- [[seeds/Code/playwright-browser-firefox|playwright-browser-firefox]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-browser-firefox` *(archived)*
+- [[seeds/Code/playwright-browser-webkit|playwright-browser-webkit]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-browser-webkit` *(archived)*
+- [[seeds/Code/playwright-chromium|playwright-chromium]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-chromium` *(archived)*
+- [[seeds/Code/playwright-client|playwright-client]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-client` *(archived)*
+- [[seeds/Code/playwright-core|playwright-core]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core` *(archived)*
+- [[seeds/Code/playwright-crx-0-15-0|playwright-crx-0.15.0]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0` *(archived)*
+- [[seeds/Code/playwright-ct-core|playwright-ct-core]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-core` *(archived)*
+- [[seeds/Code/playwright-ct-react|playwright-ct-react]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-react` *(archived)*
+- [[seeds/Code/playwright-ct-react17|playwright-ct-react17]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-react17` *(archived)*
+- [[seeds/Code/playwright-ct-svelte|playwright-ct-svelte]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-svelte` *(archived)*
+- [[seeds/Code/playwright-ct-vue|playwright-ct-vue]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-ct-vue` *(archived)*
+- [[seeds/Code/playwright-firefox|playwright-firefox]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-firefox` *(archived)*
+- [[seeds/Code/playwright-test-plugin|playwright-test-plugin]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/installation/playwright-test-plugin` *(archived)*
+- [[seeds/Code/playwright-test|playwright-test]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-test` *(archived)*
+- [[seeds/Code/playwright-webkit|playwright-webkit]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-webkit` *(archived)*
+- [[seeds/Code/playwright|playwright]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright` *(archived)*
+- [[seeds/Code/plugins|plugins]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/plugins` *(archived)*
+- [[seeds/Code/processing|processing]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/flakiness-dashboard/processing` *(archived)*
+- [[seeds/Code/protocol-types-generator|protocol-types-generator]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/protocol-types-generator` *(archived)*
+- [[seeds/Code/proxy|proxy]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/third_party/proxy` *(archived)*
+- [[seeds/Code/pydeck|pydeck]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/share/jupyter/nbextensions/pydeck` *(active)*
+- [[seeds/Code/python|python]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/doclint/linting-code-snippets/python` *(archived)*
+- [[seeds/Code/recorder-crx|recorder-crx]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/examples/recorder-crx` *(archived)*
+- [[seeds/Code/recorder|recorder]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/recorder` *(archived)*
+- [[seeds/Code/research-automation-system|research-automation-system]] — `/Users/dibakarmallick/Desktop/research-automation-system` *(active)*
+- [[seeds/Code/resources|resources]] — `/Users/dibakarmallick/Downloads/usr/lib/patreon-dl-gui/resources` *(in-progress)*
+- [[seeds/Code/server|server]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/src/server` *(archived)*
+- [[seeds/Code/shared|shared]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/shared` *(active)*
+- [[seeds/Code/simple-extension|simple-extension]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/simple-extension` *(archived)*
+- [[seeds/Code/src|src]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/assistant/src` *(active)*
+- [[seeds/Code/stable-test-runner|stable-test-runner]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/playwright-test/stable-test-runner` *(archived)*
+- [[seeds/Code/store|store]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/store` *(active)*
+- [[seeds/Code/svgomg|svgomg]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/svgomg` *(archived)*
+- [[seeds/Code/tenacitOS-main|tenacitOS-main]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main` *(in-progress)*
+- [[seeds/Code/tests|tests]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/tests` *(archived)*
+- [[seeds/Code/testserver|testserver]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/config/testserver` *(archived)*
+- [[seeds/Code/todomvc-crx|todomvc-crx]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/examples/todomvc-crx` *(archived)*
+- [[seeds/Code/todomvc|todomvc]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/todomvc` *(archived)*
+- [[seeds/Code/trace-viewer|trace-viewer]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/trace-viewer` *(archived)*
+- [[seeds/Code/types|types]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/shared/src/types` *(active)*
+- [[seeds/Code/utils|utils]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/shared/src/utils` *(active)*
+- [[seeds/Code/web|web]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/web` *(archived)*
+- [[seeds/Code/zip|zip]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/bundles/zip` *(archived)*
+
+## Research (84)
+
+- [[seeds/Research/02_High_Yield_Sciences|02_High_Yield_Sciences]] — `/Users/dibakarmallick/Desktop/IFD MCAT/02_High_Yield_Sciences` *(in-progress)*
+- [[seeds/Research/03_MCAT_Math|03_MCAT_Math]] — `/Users/dibakarmallick/Desktop/IFD MCAT/03_MCAT_Math` *(archived)*
+- [[seeds/Research/04_Strategies|04_Strategies]] — `/Users/dibakarmallick/Desktop/IFD MCAT/04_Strategies` *(archived)*
+- [[seeds/Research/05_Study_Advice|05_Study_Advice]] — `/Users/dibakarmallick/Desktop/IFD MCAT/05_Study_Advice` *(archived)*
+- [[seeds/Research/1-Bio|1-Bio]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/1-Bio` *(archived)*
+- [[seeds/Research/1-Chem-Phys|1-Chem Phys]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 2/1-Chem Phys` *(archived)*
+- [[seeds/Research/2-Bio-Biochem|2-Bio Biochem]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 3/2-Bio Biochem` *(archived)*
+- [[seeds/Research/2-Biochemistry|2-Biochemistry]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/2-Biochemistry` *(archived)*
+- [[seeds/Research/2-CARS|2-CARS]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 2/2-CARS` *(archived)*
+- [[seeds/Research/2020-Edition|2020 Edition]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review/2020 Edition` *(archived)*
+- [[seeds/Research/3-Bio-Biochem|3-Bio Biochem]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 1/3-Bio Biochem` *(archived)*
+- [[seeds/Research/3-Bio-Biochemistry|3-Bio Biochemistry]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 2/3-Bio Biochemistry` *(archived)*
+- [[seeds/Research/3-CARS|3-CARS]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/3-CARS` *(archived)*
+- [[seeds/Research/3-Science-Capstone|3-Science Capstone]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 3/3-Science Capstone` *(archived)*
+- [[seeds/Research/4-Chemistry|4-Chemistry]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/4-Chemistry` *(archived)*
+- [[seeds/Research/4-Countdown-to-Test-Day|4-Countdown to Test Day]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 3/4-Countdown to Test Day` *(archived)*
+- [[seeds/Research/4-Psych-Soc|4-Psych Soc]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 1/4-Psych Soc` *(archived)*
+- [[seeds/Research/4-Psych-Social|4-Psych Social]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 2/4-Psych Social` *(archived)*
+- [[seeds/Research/5-Physics|5-Physics]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/5-Physics` *(archived)*
+- [[seeds/Research/6-Psych-Social|6-Psych Social]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/6-Psych Social` *(archived)*
+- [[seeds/Research/7-Test-Reviews|7-Test Reviews]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/7-Test Reviews` *(archived)*
+- [[seeds/Research/8-Test-Strats|8-Test Strats]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels/8-Test Strats` *(archived)*
+- [[seeds/Research/AAMC-Exams|AAMC Exams]] — `/Users/dibakarmallick/Downloads/MCAT Supplies/AAMC Exams` *(in-progress)*
+- [[seeds/Research/Altius-MCAT-Review|Altius MCAT Review]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review` *(archived)*
+- [[seeds/Research/Biochem|Biochem]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/Biochem` *(archived)*
+- [[seeds/Research/Biology|Biology]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Biology` *(in-progress)*
+- [[seeds/Research/Blueprint---NextStep-MCAT-Review|Blueprint - NextStep MCAT Review]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Blueprint - NextStep MCAT Review` *(archived)*
+- [[seeds/Research/ClinicalResearchBook|ClinicalResearchBook]] — `/Users/dibakarmallick/Desktop/ClinicalResearchBook` *(active)*
+- [[seeds/Research/Desktop|Desktop]] — `/Users/dibakarmallick/Desktop` *(active)*
+- [[seeds/Research/Documents|Documents]] — `/Users/dibakarmallick/Documents` *(active)*
+- [[seeds/Research/Downloads|Downloads]] — `/Users/dibakarmallick/Downloads` *(active)*
+- [[seeds/Research/EK-TPR-Kaplan-Berkeley-MCAT-ALL-IN-ONE---1-98GB---FINAL-RELE|EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE` *(in-progress)*
+- [[seeds/Research/ExamKrackers|ExamKrackers]] — `/Users/dibakarmallick/Downloads/MCAT Supplies/ExamKrackers` *(in-progress)*
+- [[seeds/Research/Examkrackers-MCAT-Review--9th-ed|Examkrackers MCAT Review (9th ed.)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Examkrackers MCAT Review (9th ed.)` *(archived)*
+- [[seeds/Research/Examkrackers-MCAT-Review-2015|Examkrackers MCAT Review 2015]] — `/Users/dibakarmallick/Downloads/Examkrackers MCAT Review 2015` *(in-progress)*
+- [[seeds/Research/FLE_Answers|FLE_Answers]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/_Full Length Exams/FLE_Answers` *(archived)*
+- [[seeds/Research/FLE_Blank|FLE_Blank]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/_Full Length Exams/FLE_Blank` *(archived)*
+- [[seeds/Research/GQ-2025-Complete|GQ 2025 Complete]] — `/Users/dibakarmallick/Downloads/GQ 2025 Complete` *(in-progress)*
+- [[seeds/Research/General-Chemistry|General Chemistry]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/General Chemistry` *(in-progress)*
+- [[seeds/Research/JAMES-ASHENHURST-OCG-MCAT-BEASTMODE|JAMES ASHENHURST OCG MCAT BEASTMODE]] — `/Users/dibakarmallick/Downloads/JAMES ASHENHURST OCG MCAT BEASTMODE` *(in-progress)*
+- [[seeds/Research/K-Verbal-Reasoning-Test-5-8|K Verbal Reasoning Test 5-8]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Kaplan/K Verbal Reasoning Test 5-8` *(in-progress)*
+- [[seeds/Research/K-Verbal-Reasoning-Tests-9-13|K Verbal Reasoning Tests 9-13]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Kaplan/K Verbal Reasoning Tests 9-13` *(in-progress)*
+- [[seeds/Research/Kaplan-MCAT-Review-2015|Kaplan MCAT Review 2015]] — `/Users/dibakarmallick/Downloads/MCAT/Kaplan MCAT Review 2015` *(in-progress)*
+- [[seeds/Research/Khan-Academy--KA-Docs|Khan Academy (KA Docs)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Khan Academy (KA Docs)` *(archived)*
+- [[seeds/Research/Lecture|Lecture]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Organic Chemistry/Lecture` *(in-progress)*
+- [[seeds/Research/MANDATORY-MEETING_-Medical---Dental-School-Application-Proce|MANDATORY MEETING_ Medical & Dental School Application Process]] — `/Users/dibakarmallick/Downloads/MANDATORY MEETING_ Medical & Dental School Application Process` *(active)*
+- [[seeds/Research/MCAT-Course-2016-with-Video-Kaplan|MCAT Course 2016 with Video Kaplan]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan` *(in-progress)*
+- [[seeds/Research/MCAT-PREP|MCAT PREP]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP` *(in-progress)*
+- [[seeds/Research/MCAT-Test|MCAT Test]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test` *(in-progress)*
+- [[seeds/Research/MCPHS-RECITATION-CHEMISTRY-1|MCPHS RECITATION CHEMISTRY 1]] — `/Users/dibakarmallick/Downloads/MCPHS RECITATION CHEMISTRY 1` *(in-progress)*
+- [[seeds/Research/Med-pathway-MCAT-Test-Prep-Organic-Chemistry-Review|Med-pathway MCAT Test Prep Organic Chemistry Review]] — `/Users/dibakarmallick/Downloads/Med-pathway MCAT Test Prep Organic Chemistry Review` *(active)*
+- [[seeds/Research/Organic-Chemistry|Organic Chemistry]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Organic Chemistry` *(in-progress)*
+- [[seeds/Research/Physics|Physics]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Physics` *(in-progress)*
+- [[seeds/Research/Princeton|Princeton]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Princeton` *(in-progress)*
+- [[seeds/Research/Psychology|Psychology]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/Psychology` *(archived)*
+- [[seeds/Research/RESEARCH-MODULE-FOR-CRC-ROLE|RESEARCH MODULE FOR CRC ROLE]] — `/Users/dibakarmallick/Documents/Claude/Projects/RESEARCH MODULE FOR CRC ROLE` *(active)*
+- [[seeds/Research/Shemmassian_MCAT_QBANK|Shemmassian_MCAT_QBANK]] — `/Users/dibakarmallick/Downloads/Shemmassian_MCAT_QBANK` *(archived)*
+- [[seeds/Research/Sociology|Sociology]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/Sociology` *(archived)*
+- [[seeds/Research/Strategy|Strategy]] — `/Users/dibakarmallick/Downloads/MCAT/kaplan mcat/Strategy` *(in-progress)*
+- [[seeds/Research/TBR|TBR]] — `/Users/dibakarmallick/Downloads/MCAT Supplies/TBR` *(in-progress)*
+- [[seeds/Research/The-Berkeley-Review-2015-MCAT--incomplete--missing-books|The Berkeley Review 2015 MCAT (incomplete. missing books)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/The Berkeley Review 2015 MCAT (incomplete. missing books)` *(archived)*
+- [[seeds/Research/The-Berkeley-Review-MCAT--Home-Study---2011|The Berkeley Review MCAT (Home Study - 2011)]] — `/Users/dibakarmallick/Downloads/MCAT/MCAT/The Berkeley Review MCAT (Home Study - 2011)` *(in-progress)*
+- [[seeds/Research/The-Princeton-Review--incomplete--some-partial-texts|The Princeton Review (incomplete, some partial texts)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/The Princeton Review (incomplete, some partial texts)` *(archived)*
+- [[seeds/Research/UWorld-MCAT-Organic-Chemistry----UWorld----2024----UWorld|UWorld MCAT Organic Chemistry -- UWorld -- 2024 -- UWorld -- 4aef808b2df3cae70b8a03dd39c677fd -- Anna’s Archive]] — `/Users/dibakarmallick/Downloads/UWorld MCAT Organic Chemistry -- UWorld -- 2024 -- UWorld -- 4aef808b2df3cae70b8a03dd39c677fd -- Anna’s Archive` *(in-progress)*
+- [[seeds/Research/Verbal|Verbal]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Verbal` *(in-progress)*
+- [[seeds/Research/_Strategy--Math--and-Research-Methods|_Strategy, Math, and Research Methods]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/_Strategy, Math, and Research Methods` *(archived)*
+- [[seeds/Research/_USEFUL-AF-PDFs-and-WORD-DOCs--Guides--Summaries--Review--Te|_USEFUL AF PDFs and WORD DOCs (Guides, Summaries, Review, Textbooks, etc.)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/_USEFUL AF PDFs and WORD DOCs (Guides, Summaries, Review, Textbooks, etc.)` *(archived)*
+- [[seeds/Research/assets|assets]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets` *(archived)*
+- [[seeds/Research/books-on-cma|books on cma]] — `/Users/dibakarmallick/Downloads/books on cma` *(active)*
+- [[seeds/Research/catcall---Pharmaceutical-Chemistry|catcall - Pharmaceutical Chemistry]] — `/Users/dibakarmallick/Downloads/catcall - Pharmaceutical Chemistry` *(in-progress)*
+- [[seeds/Research/chapters|chapters]] — `/Users/dibakarmallick/Desktop/ClinicalResearchBook/chapters` *(active)*
+- [[seeds/Research/docx-files|docx-files]] — `/Users/dibakarmallick/Downloads/docx-files` *(in-progress)*
+- [[seeds/Research/drive-download-20251218T053901Z-1-001|drive-download-20251218T053901Z-1-001]] — `/Users/dibakarmallick/Downloads/drive archieve/drive-download-20251218T053901Z-1-001` *(archived)*
+- [[seeds/Research/drive-download-20251218T055024Z-1-001|drive-download-20251218T055024Z-1-001]] — `/Users/dibakarmallick/Downloads/drive archieve/drive-download-20251218T055024Z-1-001` *(archived)*
+- [[seeds/Research/drive-download-20251223T022010Z-1-001|drive-download-20251223T022010Z-1-001]] — `/Users/dibakarmallick/Downloads/drive-download-20251223T022010Z-1-001` *(archived)*
+- [[seeds/Research/files--1|files (1)]] — `/Users/dibakarmallick/Downloads/files (1)` *(active)*
+- [[seeds/Research/files|files]] — `/Users/dibakarmallick/Desktop/marc uv spec perf board exp/files` *(in-progress)*
+- [[seeds/Research/ilovepdf_converted|ilovepdf_converted]] — `/Users/dibakarmallick/Downloads/ilovepdf_converted` *(in-progress)*
+- [[seeds/Research/kaplan-mcat|kaplan mcat]] — `/Users/dibakarmallick/Downloads/MCAT/kaplan mcat` *(in-progress)*
+- [[seeds/Research/marc-uv-spec-perf-board-exp|marc uv spec perf board exp]] — `/Users/dibakarmallick/Desktop/marc uv spec perf board exp` *(in-progress)*
+- [[seeds/Research/pdf-files|pdf-files]] — `/Users/dibakarmallick/Downloads/pdf-files` *(in-progress)*
+- [[seeds/Research/section-test|section test]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Organic Chemistry/section test` *(in-progress)*
+- [[seeds/Research/subject-test|subject test]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/General Chemistry/subject test` *(in-progress)*
+- [[seeds/Research/topical-test|topical test]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Test/Organic Chemistry/topical test` *(in-progress)*
+
+## Business (12)
+
+- [[seeds/Business/CrashReports-storyboardc|CrashReports.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/CrashReports.storyboardc` *(active)*
+- [[seeds/Business/KAPLAN--PRINCETON|KAPLAN, PRINCETON]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON` *(unknown)*
+- [[seeds/Business/Kaplan-MCAT-528-Advanced-Prep-for-Advanced-Students--Kaplan|Kaplan MCAT 528 Advanced Prep for Advanced Students (Kaplan Test Prep)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review/2015 Edition/Kaplan MCAT 528 Advanced Prep for Advanced Students (Kaplan Test Prep)` *(archived)*
+- [[seeds/Business/Kaplan-MCAT-Review|Kaplan MCAT Review]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review` *(archived)*
+- [[seeds/Business/Kaplan|Kaplan]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Kaplan` *(unknown)*
+- [[seeds/Business/client-certificates|client-certificates]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/client-certificates` *(archived)*
+- [[seeds/Business/client|client]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/lib/client` *(archived)*
+- [[seeds/Business/plans|plans]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/docs/plans` *(active)*
+- [[seeds/Business/pydeck-0-9-1-dist-info|pydeck-0.9.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pydeck-0.9.1.dist-info` *(active)*
+- [[seeds/Business/pydeck|pydeck]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pydeck` *(active)*
+- [[seeds/Business/reporters|reporters]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/reporters` *(archived)*
+- [[seeds/Business/test-reporter-api|test-reporter-api]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/docs/src/test-reporter-api` *(archived)*
+
+## Study (12)
+
+- [[seeds/Study/01_Anki_Mini_Course|01_Anki_Mini_Course]] — `/Users/dibakarmallick/Desktop/IFD MCAT/01_Anki_Mini_Course` *(archived)*
+- [[seeds/Study/10-Week-ExamKrackers-Schedule|10 Week ExamKrackers Schedule]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule` *(in-progress)*
+- [[seeds/Study/Adobe-Lightroom-Classic-2024-v13-0-1--x64----Crack--macOS|Adobe Lightroom Classic 2024 v13.0.1 (x64) + Crack (macOS)]] — `/Users/dibakarmallick/Downloads/Adobe Lightroom Classic 2024 v13.0.1 (x64) + Crack (macOS)` *(active)*
+- [[seeds/Study/Brian-s-Bio-Notes|Brian's Bio Notes]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Princeton Audio/Biology/Brian's Bio Notes` *(in-progress)*
+- [[seeds/Study/LE-LABO-Fragrances---Uploads-from-LE-LABO-Fragrances|LE LABO Fragrances - Uploads from LE LABO Fragrances]] — `/Users/dibakarmallick/Documents/LE LABO Fragrances - Uploads from LE LABO Fragrances` *(active)*
+- [[seeds/Study/MCAT-Study|MCAT Study]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study` *(in-progress)*
+- [[seeds/Study/Organized-Kaplan-notes-by-reddit-user-preconventional|Organized Kaplan notes by reddit user preconventional]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review/Organized Kaplan notes by reddit user preconventional` *(archived)*
+- [[seeds/Study/_Full-Length-Exams|_Full Length Exams]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Altius MCAT Review/_Full Length Exams` *(unknown)*
+- [[seeds/Study/examples|examples]] — `/Users/dibakarmallick/Desktop/research-automation-system/examples` *(active)*
+- [[seeds/Study/labdanum18-edp|labdanum18-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/eau-de-parfum/labdanum18-edp` *(active)*
+- [[seeds/Study/le-labo|le-labo]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo` *(unknown)*
+- [[seeds/Study/lelabo|lelabo]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo` *(unknown)*
+
+## Misc (732)
+
+- [[seeds/Misc/10060507|10060507]] — `/Users/dibakarmallick/Desktop/CAMERA/GRADUATION 1/DCIM/10060507` *(active)*
+- [[seeds/Misc/100MSDCF|100MSDCF]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/100MSDCF` *(archived)*
+- [[seeds/Misc/10160507|10160507]] — `/Users/dibakarmallick/Desktop/CAMERA/GRADUATION 2/DCIM/10160507` *(active)*
+- [[seeds/Misc/101MSDCF|101MSDCF]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/101MSDCF` *(in-progress)*
+- [[seeds/Misc/10260327|10260327]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10260327` *(in-progress)*
+- [[seeds/Misc/10360328|10360328]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10360328` *(in-progress)*
+- [[seeds/Misc/10460329|10460329]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10460329` *(in-progress)*
+- [[seeds/Misc/10560401|10560401]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10560401` *(in-progress)*
+- [[seeds/Misc/10660402|10660402]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10660402` *(in-progress)*
+- [[seeds/Misc/10760403|10760403]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10760403` *(in-progress)*
+- [[seeds/Misc/108MSDCF|108MSDCF]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/108MSDCF` *(archived)*
+- [[seeds/Misc/10960403|10960403]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/DCIM/10960403` *(in-progress)*
+- [[seeds/Misc/11060403|11060403]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM/11060403` *(active)*
+- [[seeds/Misc/11160406|11160406]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM/11160406` *(in-progress)*
+- [[seeds/Misc/11360411|11360411]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM/11360411` *(in-progress)*
+- [[seeds/Misc/11460430|11460430]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM/11460430` *(active)*
+- [[seeds/Misc/11560503|11560503]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM/11560503` *(active)*
+- [[seeds/Misc/2015-Edition|2015 Edition]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review/2015 Edition` *(archived)*
+- [[seeds/Misc/AAMC-Flashcards--OFFCIAL|AAMC Flashcards (OFFCIAL)]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/AAMC Flashcards (OFFCIAL)` *(archived)*
+- [[seeds/Misc/AESOP-DUMP|AESOP DUMP]] — `/Users/dibakarmallick/Downloads/AESOP DUMP` *(active)*
+- [[seeds/Misc/About|About]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/About` *(archived)*
+- [[seeds/Misc/Application|Application]] — `/Users/dibakarmallick/Downloads/Adobe Lightroom Classic 2024 v13.0.1 (x64) + Crack (macOS)/Adobe Lightroom Classic 2024 v13.0.1 (x64) + Crack (macOS)/Application` *(active)*
+- [[seeds/Misc/Audio-Osmosis|Audio Osmosis]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis` *(unknown)*
+- [[seeds/Misc/Audio|Audio]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Organic Chemistry/Audio` *(unknown)*
+- [[seeds/Misc/B|B]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Frameworks/Sparkle.framework/Versions/B` *(active)*
+- [[seeds/Misc/Base-lproj|Base.lproj]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Resources/Base.lproj` *(active)*
+- [[seeds/Misc/BatchDOC|BatchDOC]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/BatchDOC` *(archived)*
+- [[seeds/Misc/BatchOCR|BatchOCR]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/BatchOCR` *(archived)*
+- [[seeds/Misc/Ben-10-Complete-Seasons--Ben10-Alien-Force-Ultimate-Alien--A|Ben 10 Complete Seasons [Ben10,Alien Force,Ultimate Alien] All Episodes 480p x264 Salman Sk Silver RG]] — `/Users/dibakarmallick/Downloads/Ben 10 Complete Seasons [Ben10,Alien Force,Ultimate Alien] All Episodes 480p x264 Salman Sk Silver RG` *(unknown)*
+- [[seeds/Misc/Biochemistry|Biochemistry]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Single Topic Review Videos/Biochemistry` *(archived)*
+- [[seeds/Misc/Biology|Biology]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Biology` *(unknown)*
+- [[seeds/Misc/BloomFilter-framework|BloomFilter.framework]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Frameworks/BloomFilter.framework` *(active)*
+- [[seeds/Misc/Bookmark-momd|Bookmark.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Bookmark.momd` *(active)*
+- [[seeds/Misc/BookmarksBar-storyboardc|BookmarksBar.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/BookmarksBar.storyboardc` *(active)*
+- [[seeds/Misc/CAMERA|CAMERA]] — `/Users/dibakarmallick/Desktop/CAMERA` *(active)*
+- [[seeds/Misc/CAPTURE1|CAPTURE1]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1` *(unknown)*
+- [[seeds/Misc/CAPTURE2|CAPTURE2]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2` *(unknown)*
+- [[seeds/Misc/CHICHATEA-WEBSITE|CHICHATEA WEBSITE]] — `/Users/dibakarmallick/Desktop/working projects/CHICHATEA WEBSITE` *(unknown)*
+- [[seeds/Misc/CLIP|CLIP]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/PRIVATE/M4ROOT/CLIP` *(in-progress)*
+- [[seeds/Misc/Can-I-Vibecode-a--250M-App-Better-Than-a-Pro-Developer---Wit|Can I Vibecode a $250M App Better Than a Pro Developer¿ (With No Code)]] — `/Users/dibakarmallick/Documents/Can I Vibecode a $250M App Better Than a Pro Developer¿ (With No Code)` *(active)*
+- [[seeds/Misc/Chad-s-Prep---Organic-Chemistry|Chad's Prep - Organic Chemistry]] — `/Users/dibakarmallick/Downloads/Chad's Prep - Organic Chemistry` *(in-progress)*
+- [[seeds/Misc/Chemistry---Physics|Chemistry & Physics]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Single Topic Review Videos/Chemistry & Physics` *(archived)*
+- [[seeds/Misc/Chichatea---Chino-CA---1571911030548924|Chichatea ¦ Chino CA - 1571911030548924]] — `/Users/dibakarmallick/Desktop/working projects/CHICHATEA WEBSITE/Chichatea ¦ Chino CA - 1571911030548924` *(active)*
+- [[seeds/Misc/Claude|Claude]] — `/Users/dibakarmallick/Documents/Claude` *(unknown)*
+- [[seeds/Misc/Configs|Configs]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Configs` *(archived)*
+- [[seeds/Misc/ContentOverlay-storyboardc|ContentOverlay.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/ContentOverlay.storyboardc` *(active)*
+- [[seeds/Misc/Contents|Contents]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents` *(active)*
+- [[seeds/Misc/DCIM|DCIM]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/DCIM` *(unknown)*
+- [[seeds/Misc/DRAFTS|DRAFTS]] — `/Users/dibakarmallick/Desktop/openclaw-setup/doomsday-arch-20260420-R7K3X2/DRAFTS` *(unknown)*
+- [[seeds/Misc/Dont-Say-A-Word-To-My-Son--PornMegaLoad-2025--XXX-WEB-DL-MP4|Dont.Say.A.Word.To.My.Son.[PornMegaLoad.2025].XXX.WEB-DL.MP4-P2P.[XC]]] — `/Users/dibakarmallick/Desktop/Dont.Say.A.Word.To.My.Son.[PornMegaLoad.2025].XXX.WEB-DL.MP4-P2P.[XC]` *(active)*
+- [[seeds/Misc/Downloads-momd|Downloads.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Downloads.momd` *(active)*
+- [[seeds/Misc/ExcludedApps-storyboardc|ExcludedApps.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/ExcludedApps.storyboardc` *(active)*
+- [[seeds/Misc/ExcludedDomains-storyboardc|ExcludedDomains.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/ExcludedDomains.storyboardc` *(active)*
+- [[seeds/Misc/Favicons-momd|Favicons.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Favicons.momd` *(active)*
+- [[seeds/Misc/Feedback-storyboardc|Feedback.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Feedback.storyboardc` *(active)*
+- [[seeds/Misc/FindInPage-storyboardc|FindInPage.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/FindInPage.storyboardc` *(active)*
+- [[seeds/Misc/FireproofDomains-momd|FireproofDomains.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/FireproofDomains.momd` *(active)*
+- [[seeds/Misc/Frameworks|Frameworks]] — `/Users/dibakarmallick/Downloads/Descript Installer.app/Contents/Frameworks` *(archived)*
+- [[seeds/Misc/Fusion|Fusion]] — `/Users/dibakarmallick/Documents/Blackmagic Design/DaVinci Resolve/Fusion` *(unknown)*
+- [[seeds/Misc/GRAD-PICS-WITH-BACKG|GRAD PICS WITH BACKG]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/GRAD PICS WITH BACKG` *(active)*
+- [[seeds/Misc/GRAD-PICS-WITH-MY-BROTHER-FROM-ANOTHER-MOTHER--TALK-ABOUT-PR|GRAD PICS WITH MY BROTHER FROM ANOTHER MOTHER, TALK ABOUT PROXIMITY THEORY , HOW HIS SUPPORT BOTH SPIRITUAL AND SCIENTIFIC TALKS HAS CHANGED ME AND ( TALK WITH MY MENTORS LIKE RAJ KUMAR , NAWAS , AND other mentors and post docs at harvard have been enrich]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/GRAD PICS WITH MY BROTHER FROM ANOTHER MOTHER, TALK ABOUT PROXIMITY THEORY , HOW HIS SUPPORT BOTH SPIRITUAL AND SCIENTIFIC TALKS HAS CHANGED ME AND ( TALK WITH MY MENTORS LIKE RAJ KUMAR , NAWAS , AND other mentors and post docs at harvard have been enrich` *(active)*
+- [[seeds/Misc/GRADUATION-1|GRADUATION 1]] — `/Users/dibakarmallick/Desktop/CAMERA/GRADUATION 1` *(unknown)*
+- [[seeds/Misc/GRADUATION-2|GRADUATION 2]] — `/Users/dibakarmallick/Desktop/CAMERA/GRADUATION 2` *(unknown)*
+- [[seeds/Misc/GRDB-framework|GRDB.framework]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Frameworks/GRDB.framework` *(active)*
+- [[seeds/Misc/GammaEditor|GammaEditor]] — `/Users/dibakarmallick/Documents/Sony/RAW Viewer/GammaEditor` *(active)*
+- [[seeds/Misc/General-Chemistry|General Chemistry]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/General Chemistry` *(unknown)*
+- [[seeds/Misc/GlobalConfigsPage|GlobalConfigsPage]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/GlobalConfigsPage` *(archived)*
+- [[seeds/Misc/Group-1|Group 1]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 1` *(unknown)*
+- [[seeds/Misc/Group-2|Group 2]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 2` *(unknown)*
+- [[seeds/Misc/Group-3|Group 3]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos/Group 3` *(unknown)*
+- [[seeds/Misc/HIMAVALLEY-LOGO|HIMAVALLEY LOGO]] — `/Users/dibakarmallick/Desktop/working projects/himavalley images/HIMAVALLEY LOGO` *(active)*
+- [[seeds/Misc/History-momd|History.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/History.momd` *(active)*
+- [[seeds/Misc/IFD-MCAT|IFD MCAT]] — `/Users/dibakarmallick/Desktop/IFD MCAT` *(unknown)*
+- [[seeds/Misc/IgnoreArea|IgnoreArea]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Widgets/IgnoreArea` *(archived)*
+- [[seeds/Misc/ImageManager|ImageManager]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/ImageManager` *(archived)*
+- [[seeds/Misc/ImageViewer|ImageViewer]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Widgets/ImageViewer` *(archived)*
+- [[seeds/Misc/Images|Images]] — `/Users/dibakarmallick/Desktop/OPENCLAW FILES/Images` *(active)*
+- [[seeds/Misc/Immunology_Studocu|Immunology_Studocu]] — `/Users/dibakarmallick/Desktop/OPENCLAW FILES/Immunology_Studocu` *(active)*
+- [[seeds/Misc/JSAlert-storyboardc|JSAlert.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/JSAlert.storyboardc` *(active)*
+- [[seeds/Misc/LINKEDIN-POST|LINKEDIN POST]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST` *(unknown)*
+- [[seeds/Misc/Lesson-Videos|Lesson Videos]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Lesson Videos` *(unknown)*
+- [[seeds/Misc/Limitless--2011|Limitless (2011)]] — `/Users/dibakarmallick/Downloads/Limitless (2011)` *(active)*
+- [[seeds/Misc/Lottie-framework|Lottie.framework]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Frameworks/Lottie.framework` *(active)*
+- [[seeds/Misc/M4ROOT|M4ROOT]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/PRIVATE/M4ROOT` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-1|MCAT Audio Osmosis 1]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 1` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-10|MCAT Audio Osmosis 10]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 10` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-11|MCAT Audio Osmosis 11]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 11` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-12|MCAT Audio Osmosis 12]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 12` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-2|MCAT Audio Osmosis 2]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 2` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-3|MCAT Audio Osmosis 3]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 3` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-4|MCAT Audio Osmosis 4]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 4` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-5|MCAT Audio Osmosis 5]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 5` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-6|MCAT Audio Osmosis 6]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 6` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-7|MCAT Audio Osmosis 7]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 7` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-8|MCAT Audio Osmosis 8]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 8` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-9|MCAT Audio Osmosis 9]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/Audio Osmosis/MCAT Audio Osmosis 9` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-1|MCAT Audio Osmosis Disc 1]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Physics/Audio/MCAT Audio Osmosis Disc 1` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-10|MCAT Audio Osmosis Disc 10]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Biology/Audio/MCAT Audio Osmosis Disc 10` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-11|MCAT Audio Osmosis Disc 11]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Organic Chemistry/Audio/MCAT Audio Osmosis Disc 11` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-12|MCAT Audio Osmosis Disc 12]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Organic Chemistry/Audio/MCAT Audio Osmosis Disc 12` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-2|MCAT Audio Osmosis Disc 2]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Physics/Audio/MCAT Audio Osmosis Disc 2` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-3|MCAT Audio Osmosis Disc 3]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Physics/Audio/MCAT Audio Osmosis Disc 3` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-4|MCAT Audio Osmosis Disc 4]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Physics/Audio/MCAT Audio Osmosis Disc 4` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-5|MCAT Audio Osmosis Disc 5]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/General Chemistry/Audio/MCAT Audio Osmosis Disc 5` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-6|MCAT Audio Osmosis Disc 6]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/General Chemistry/Audio/MCAT Audio Osmosis Disc 6` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-7|MCAT Audio Osmosis Disc 7]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/General Chemistry/Audio/MCAT Audio Osmosis Disc 7` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-8|MCAT Audio Osmosis Disc 8]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Biology/Audio/MCAT Audio Osmosis Disc 8` *(in-progress)*
+- [[seeds/Misc/MCAT-Audio-Osmosis-Disc-9|MCAT Audio Osmosis Disc 9]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Biology/Audio/MCAT Audio Osmosis Disc 9` *(in-progress)*
+- [[seeds/Misc/MCAT-Channels|MCAT Channels]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/MCAT Channels` *(unknown)*
+- [[seeds/Misc/MCAT-Prepz|MCAT Prepz]] — `/Users/dibakarmallick/Downloads/MCAT Prepz` *(unknown)*
+- [[seeds/Misc/MCAT-Resources-VER-5-0-1|MCAT Resources VER 5.0.1]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1` *(archived)*
+- [[seeds/Misc/MCAT-Supplies|MCAT Supplies]] — `/Users/dibakarmallick/Downloads/MCAT Supplies` *(unknown)*
+- [[seeds/Misc/MCAT|MCAT]] — `/Users/dibakarmallick/Downloads/MCAT` *(unknown)*
+- [[seeds/Misc/MCAT_Videos|MCAT_Videos]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT_Videos` *(in-progress)*
+- [[seeds/Misc/MEDPATHWAY-ORGANIC-CHEMISTRY|MEDPATHWAY ORGANIC CHEMISTRY]] — `/Users/dibakarmallick/Downloads/MEDPATHWAY ORGANIC CHEMISTRY` *(in-progress)*
+- [[seeds/Misc/MOBI-Format|MOBI Format]] — `/Users/dibakarmallick/Downloads/MCAT Resources VER 5.0.1/Kaplan MCAT Review/2015 Edition/MOBI Format` *(archived)*
+- [[seeds/Misc/MSAR---HOME-PAGE_files|MSAR   HOME PAGE_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/USA MSAR 2014/MSAR   HOME PAGE_files` *(archived)*
+- [[seeds/Misc/Main-storyboardc|Main.storyboardc]] — `/Users/dibakarmallick/Downloads/Descript Installer.app/Contents/Resources/Base.lproj/Main.storyboardc` *(archived)*
+- [[seeds/Misc/MainWindow-storyboardc|MainWindow.storyboardc]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Resources/Base.lproj/MainWindow.storyboardc` *(active)*
+- [[seeds/Misc/MainWindow|MainWindow]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/MainWindow` *(archived)*
+- [[seeds/Misc/Math-and-Science-Tutor-MCAT-General-Chemistry-2-Review-7-5-H|Math-and-Science-Tutor-MCAT-General-Chemistry-2-Review-7.5-Hour-Video]] — `/Users/dibakarmallick/Downloads/Math-and-Science-Tutor-MCAT-General-Chemistry-2-Review-7.5-Hour-Video` *(in-progress)*
+- [[seeds/Misc/NarrativeGemma|NarrativeGemma]] — `/Users/dibakarmallick/Downloads/claude-code-local-main/NarrativeGemma` *(active)*
+- [[seeds/Misc/NavigationBar-storyboardc|NavigationBar.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/NavigationBar.storyboardc` *(active)*
+- [[seeds/Misc/New-Folder-With-Items|New Folder With Items]] — `/Users/dibakarmallick/Desktop/Untitled Export/New Folder With Items` *(active)*
+- [[seeds/Misc/OChem-Backup|OChem Backup]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Princeton Audio/Organic Chemistry (Collen)/OChem Backup` *(in-progress)*
+- [[seeds/Misc/OPENCLAW-FILES|OPENCLAW FILES]] — `/Users/dibakarmallick/Desktop/OPENCLAW FILES` *(active)*
+- [[seeds/Misc/Obsidian-Vault|Obsidian Vault]] — `/Users/dibakarmallick/Documents/Obsidian Vault` *(active)*
+- [[seeds/Misc/Office3D|Office3D]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/components/Office3D` *(in-progress)*
+- [[seeds/Misc/Online-Help|Online Help]] — `/Users/dibakarmallick/Downloads/XRG-2.app/Contents/Resources/Online Help` *(archived)*
+- [[seeds/Misc/OpenSSL-framework|OpenSSL.framework]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Frameworks/OpenSSL.framework` *(active)*
+- [[seeds/Misc/Organic-Chemistry--Collen|Organic Chemistry (Collen)]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Princeton Audio/Organic Chemistry (Collen)` *(in-progress)*
+- [[seeds/Misc/Organic-Chemistry|Organic Chemistry]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Organic Chemistry` *(unknown)*
+- [[seeds/Misc/Other|Other]] — `/Users/dibakarmallick/Downloads/The Social Network (2010)/Other` *(active)*
+- [[seeds/Misc/PIL|PIL]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/PIL` *(active)*
+- [[seeds/Misc/PRIVATE|PRIVATE]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE1/PRIVATE` *(unknown)*
+- [[seeds/Misc/PasswordManager-storyboardc|PasswordManager.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/PasswordManager.storyboardc` *(active)*
+- [[seeds/Misc/PermissionAuthorization-storyboardc|PermissionAuthorization.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/PermissionAuthorization.storyboardc` *(active)*
+- [[seeds/Misc/Permissions-momd|Permissions.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Permissions.momd` *(active)*
+- [[seeds/Misc/Photos-1-001-1|Photos-1-001 1]] — `/Users/dibakarmallick/Downloads/drive archieve/Photos-1-001 1` *(in-progress)*
+- [[seeds/Misc/Photos-2|Photos-2]] — `/Users/dibakarmallick/Downloads/drive archieve/Photos-2` *(archived)*
+- [[seeds/Misc/Photos-3|Photos-3]] — `/Users/dibakarmallick/Downloads/drive archieve/Photos-3` *(in-progress)*
+- [[seeds/Misc/Photos-4|Photos-4]] — `/Users/dibakarmallick/Downloads/drive archieve/Photos-4` *(archived)*
+- [[seeds/Misc/Photos|Photos]] — `/Users/dibakarmallick/Downloads/drive archieve/Photos` *(archived)*
+- [[seeds/Misc/Physics|Physics]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Physics` *(unknown)*
+- [[seeds/Misc/PixelDataModel-momd|PixelDataModel.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/PixelDataModel.momd` *(active)*
+- [[seeds/Misc/Popup_|Popup_]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Popup_` *(archived)*
+- [[seeds/Misc/PornMegaLoad-26-04-24-Mercedes-Mac-Solo-42359-XXX-480p-MP4-X|PornMegaLoad.26.04.24.Mercedes.Mac.Solo.42359.XXX.480p.MP4-XXX[XC]]] — `/Users/dibakarmallick/Desktop/PornMegaLoad.26.04.24.Mercedes.Mac.Solo.42359.XXX.480p.MP4-XXX[XC]` *(active)*
+- [[seeds/Misc/Preferences-nib|Preferences.nib]] — `/Users/dibakarmallick/Downloads/XRG-2.app/Contents/Resources/Preferences.nib` *(archived)*
+- [[seeds/Misc/Preferences-storyboardc|Preferences.storyboardc]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Resources/Base.lproj/Preferences.storyboardc` *(active)*
+- [[seeds/Misc/Princeton-Audio|Princeton Audio]] — `/Users/dibakarmallick/Downloads/MCAT Prepz/MCAT PREP/KAPLAN, PRINCETON/Princeton Audio` *(unknown)*
+- [[seeds/Misc/Processed|Processed]] — `/Users/dibakarmallick/Desktop/OPENCLAW FILES/Images/Processed` *(active)*
+- [[seeds/Misc/Projects|Projects]] — `/Users/dibakarmallick/Documents/Claude/Projects` *(unknown)*
+- [[seeds/Misc/Psych-Social|Psych Social]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Single Topic Review Videos/Psych Social` *(archived)*
+- [[seeds/Misc/QRCode|QRCode]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/QRCode` *(archived)*
+- [[seeds/Misc/RAW-Viewer|RAW Viewer]] — `/Users/dibakarmallick/Documents/Sony/RAW Viewer` *(unknown)*
+- [[seeds/Misc/RAW_Viewer_5_1_mac|RAW_Viewer_5_1_mac]] — `/Users/dibakarmallick/Downloads/RAW_Viewer_5_1_mac` *(archived)*
+- [[seeds/Misc/RawTherapee_macOS_15-4_Universal_5-12_folder|RawTherapee_macOS_15.4_Universal_5.12_folder]] — `/Users/dibakarmallick/Downloads/RawTherapee_macOS_15.4_Universal_5.12_folder` *(archived)*
+- [[seeds/Misc/Research_Tank|Research_Tank]] — `/Users/dibakarmallick/Desktop/simplex research papers copy/Research_Tank` *(active)*
+- [[seeds/Misc/Resources|Resources]] — `/Users/dibakarmallick/Documents/muddy water symposium/SmugMug-3.5.18.1/SmugMug.lrplugin/Resources` *(active)*
+- [[seeds/Misc/ResultLayout|ResultLayout]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Widgets/ResultLayout` *(archived)*
+- [[seeds/Misc/Reverence-Duet---Hand-Wash---Balm-Set---Body---Hand-Care-Kit|Reverence Duet - Hand Wash & Balm Set - Body & Hand Care Kits_files]] — `/Users/dibakarmallick/Downloads/AESOP DUMP/Reverence Duet - Hand Wash & Balm Set - Body & Hand Care Kits_files` *(active)*
+- [[seeds/Misc/SUBS-WEEK-2|SUBS WEEK 2]] — `/Users/dibakarmallick/Downloads/XIE PHARMACEUTICAL CHEMISTRY/SUBS WEEK 2` *(in-progress)*
+- [[seeds/Misc/SUBS-WEEK-3|SUBS WEEK 3]] — `/Users/dibakarmallick/Downloads/XIE PHARMACEUTICAL CHEMISTRY/SUBS WEEK 3` *(unknown)*
+- [[seeds/Misc/SUBS|SUBS]] — `/Users/dibakarmallick/Downloads/XIE PHARMACEUTICAL CHEMISTRY/WEEK 5-6/SUBS` *(in-progress)*
+- [[seeds/Misc/Scheduled|Scheduled]] — `/Users/dibakarmallick/Documents/Claude/Scheduled` *(unknown)*
+- [[seeds/Misc/ScreenshotOCR|ScreenshotOCR]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages/ScreenshotOCR` *(archived)*
+- [[seeds/Misc/Sentry-framework|Sentry.framework]] — `/Users/dibakarmallick/Downloads/Descript Installer.app/Contents/Frameworks/Sentry.framework` *(archived)*
+- [[seeds/Misc/Settings|Settings]] — `/Users/dibakarmallick/Documents/Sony/RAW Viewer/Settings` *(active)*
+- [[seeds/Misc/Simplex-research-papers|Simplex research papers]] — `/Users/dibakarmallick/Desktop/Simplex research papers` *(active)*
+- [[seeds/Misc/Single-Topic-Review-Videos|Single Topic Review Videos]] — `/Users/dibakarmallick/Downloads/MCAT Course 2016 with Video Kaplan/Single Topic Review Videos` *(unknown)*
+- [[seeds/Misc/SmugMug-3-5-18-1|SmugMug-3.5.18.1]] — `/Users/dibakarmallick/Documents/muddy water symposium/SmugMug-3.5.18.1` *(active)*
+- [[seeds/Misc/SmugMug-lrplugin|SmugMug.lrplugin]] — `/Users/dibakarmallick/Documents/muddy water symposium/SmugMug-3.5.18.1/SmugMug.lrplugin` *(active)*
+- [[seeds/Misc/SmugMug-momd|SmugMug.momd]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Resources/SmugMug.momd` *(active)*
+- [[seeds/Misc/Sparkle-framework|Sparkle.framework]] — `/Users/dibakarmallick/Downloads/SmugMug.app/Contents/Frameworks/Sparkle.framework` *(active)*
+- [[seeds/Misc/Suggestion-storyboardc|Suggestion.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/Suggestion.storyboardc` *(active)*
+- [[seeds/Misc/THMBNL|THMBNL]] — `/Users/dibakarmallick/Desktop/CAMERA/CAPTURE2/PRIVATE/M4ROOT/THMBNL` *(in-progress)*
+- [[seeds/Misc/TabBar-storyboardc|TabBar.storyboardc]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/TabBar.storyboardc` *(active)*
+- [[seeds/Misc/TabBar_|TabBar_]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabBar_` *(archived)*
+- [[seeds/Misc/TabPages|TabPages]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabPages` *(archived)*
+- [[seeds/Misc/TabView_|TabView_]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/TabView_` *(archived)*
+- [[seeds/Misc/Template|Template]] — `/Users/dibakarmallick/Documents/Sony/RAW Viewer/Template` *(unknown)*
+- [[seeds/Misc/The-15-Cent-Miracle---The-Most-Ruthless-Supply-Chain-on-Eart|The 15-Cent Miracle - The Most Ruthless Supply Chain on Earth]] — `/Users/dibakarmallick/Documents/The 15-Cent Miracle - The Most Ruthless Supply Chain on Earth` *(active)*
+- [[seeds/Misc/The-Social-Network--2010|The Social Network (2010)]] — `/Users/dibakarmallick/Downloads/The Social Network (2010)` *(active)*
+- [[seeds/Misc/Themes|Themes]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml/Themes` *(archived)*
+- [[seeds/Misc/USA-MSAR-2014|USA MSAR 2014]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/USA MSAR 2014` *(archived)*
+- [[seeds/Misc/UnprotectedDomains-momd|UnprotectedDomains.momd]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/UnprotectedDomains.momd` *(active)*
+- [[seeds/Misc/Untitled-Export-BEST|Untitled Export-BEST]] — `/Users/dibakarmallick/Desktop/Untitled Export-BEST` *(active)*
+- [[seeds/Misc/Untitled-Export|Untitled Export]] — `/Users/dibakarmallick/Desktop/Untitled Export` *(active)*
+- [[seeds/Misc/Verbal-Reasoning---Math|Verbal Reasoning & Math]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/MCAT Study/Verbal Reasoning & Math` *(unknown)*
+- [[seeds/Misc/WFDownloaderApp_ARM-M1|WFDownloaderApp_ARM-M1]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1` *(in-progress)*
+- [[seeds/Misc/Week-10_files|Week 10_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 10_files` *(in-progress)*
+- [[seeds/Misc/Week-2_files|Week 2_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 2_files` *(in-progress)*
+- [[seeds/Misc/Week-3_files|Week 3_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 3_files` *(in-progress)*
+- [[seeds/Misc/Week-4_files|Week 4_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 4_files` *(in-progress)*
+- [[seeds/Misc/Week-5_files|Week 5_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 5_files` *(in-progress)*
+- [[seeds/Misc/Week-6_files|Week 6_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 6_files` *(in-progress)*
+- [[seeds/Misc/Week-7_files|Week 7_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 7_files` *(in-progress)*
+- [[seeds/Misc/Week-8_files|Week 8_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 8_files` *(in-progress)*
+- [[seeds/Misc/Week-9_files|Week 9_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/Week 9_files` *(in-progress)*
+- [[seeds/Misc/Win|Win]] — `/Users/dibakarmallick/Documents/muddy water symposium/SmugMug-3.5.18.1/SmugMug.lrplugin/Resources/Win` *(active)*
+- [[seeds/Misc/XIE-PHARMACEUTICAL-CHEMISTRY|XIE PHARMACEUTICAL CHEMISTRY]] — `/Users/dibakarmallick/Downloads/XIE PHARMACEUTICAL CHEMISTRY` *(unknown)*
+- [[seeds/Misc/__screenshots__|__screenshots__]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/playwright-test/__screenshots__` *(unknown)*
+- [[seeds/Misc/__tests__|__tests__]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/lib/adapters/__tests__` *(active)*
+- [[seeds/Misc/_distutils_hack|_distutils_hack]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/_distutils_hack` *(active)*
+- [[seeds/Misc/_locales|_locales]] — `/Users/dibakarmallick/Downloads/kimi-webbridge-extension/_locales` *(unknown)*
+- [[seeds/Misc/_plotly_utils|_plotly_utils]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/_plotly_utils` *(active)*
+- [[seeds/Misc/activities|activities]] — `/Users/dibakarmallick/Desktop/mission-control-optimized/src/app/api/activities` *(active)*
+- [[seeds/Misc/activity|activity]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/app/activity` *(in-progress)*
+- [[seeds/Misc/aesop|aesop]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop` *(unknown)*
+- [[seeds/Misc/agent-management|agent-management]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/agent-management` *(active)*
+- [[seeds/Misc/agents|agents]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/agents` *(in-progress)*
+- [[seeds/Misc/altair-6-0-0-dist-info|altair-6.0.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/altair-6.0.0.dist-info` *(active)*
+- [[seeds/Misc/altair|altair]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/altair` *(active)*
+- [[seeds/Misc/android|android]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/android` *(archived)*
+- [[seeds/Misc/another13-edp|another13-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/eau-de-parfum/another13-edp` *(active)*
+- [[seeds/Misc/api|api]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/api` *(in-progress)*
+- [[seeds/Misc/app|app]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/apps/dashboard/src/app` *(active)*
+- [[seeds/Misc/approvals|approvals]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/app/approvals` *(in-progress)*
+- [[seeds/Misc/architecture|architecture]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/architecture` *(in-progress)*
+- [[seeds/Misc/assets|assets]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/assets` *(active)*
+- [[seeds/Misc/atoms|atoms]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/atoms` *(in-progress)*
+- [[seeds/Misc/attr|attr]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/attr` *(active)*
+- [[seeds/Misc/attrs-26-1-0-dist-info|attrs-26.1.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/attrs-26.1.0.dist-info` *(active)*
+- [[seeds/Misc/attrs|attrs]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/attrs` *(active)*
+- [[seeds/Misc/auth|auth]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/auth` *(in-progress)*
+- [[seeds/Misc/axe-core|axe-core]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/axe-core` *(archived)*
+- [[seeds/Misc/basil-shower-gel-250ml|basil-shower-gel-250ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-wash/basil-shower-gel-250ml` *(active)*
+- [[seeds/Misc/basil-shower-gel|basil-shower-gel]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/body-wash/basil-shower-gel` *(active)*
+- [[seeds/Misc/basil-soap-250ml|basil-soap-250ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-wash/basil-soap-250ml` *(active)*
+- [[seeds/Misc/basil-soap-500ml|basil-soap-500ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/hand-wash/basil-soap-500ml` *(active)*
+- [[seeds/Misc/benzene-baby|benzene baby]] — `/Users/dibakarmallick/Downloads/benzene baby` *(in-progress)*
+- [[seeds/Misc/bergamote-hand-cream|bergamote-hand-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/hand-cream/bergamote-hand-cream` *(active)*
+- [[seeds/Misc/best|best]] — `/Users/dibakarmallick/Desktop/best` *(active)*
+- [[seeds/Misc/bidi|bidi]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/bidi` *(archived)*
+- [[seeds/Misc/bin|bin]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/scripts/e2e-openclaw/bin` *(active)*
+- [[seeds/Misc/blinker-1-9-0-dist-info|blinker-1.9.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/blinker-1.9.0.dist-info` *(active)*
+- [[seeds/Misc/blinker|blinker]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/blinker` *(active)*
+- [[seeds/Misc/body-lotion|body-lotion]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-lotion` *(unknown)*
+- [[seeds/Misc/body-wash|body-wash]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-wash` *(unknown)*
+- [[seeds/Misc/brand|brand]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/public/brand` *(active)*
+- [[seeds/Misc/browser_patches|browser_patches]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches` *(archived)*
+- [[seeds/Misc/bug-33561|bug-33561]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers/bug-33561` *(archived)*
+- [[seeds/Misc/bundles|bundles]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/bundles` *(unknown)*
+- [[seeds/Misc/cached|cached]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/cached` *(archived)*
+- [[seeds/Misc/cachetools-7-0-5-dist-info|cachetools-7.0.5.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/cachetools-7.0.5.dist-info` *(active)*
+- [[seeds/Misc/cachetools|cachetools]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/cachetools` *(active)*
+- [[seeds/Misc/catcall---Pharmaceutical-Chemistry|catcall - Pharmaceutical Chemistry]] — `/Users/dibakarmallick/Downloads/catcall - Pharmaceutical Chemistry/catcall - Pharmaceutical Chemistry` *(in-progress)*
+- [[seeds/Misc/category-page|category-page]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/eau-de-parfum/category-page` *(active)*
+- [[seeds/Misc/cc0-hero|cc0-hero]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/public/office-sprites/cc0-hero` *(active)*
+- [[seeds/Misc/certifi-2026-2-25-dist-info|certifi-2026.2.25.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/certifi-2026.2.25.dist-info` *(active)*
+- [[seeds/Misc/certifi|certifi]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/certifi` *(active)*
+- [[seeds/Misc/channels|channels]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/assistant/src/channels` *(active)*
+- [[seeds/Misc/charset_normalizer-3-4-7-dist-info|charset_normalizer-3.4.7.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/charset_normalizer-3.4.7.dist-info` *(active)*
+- [[seeds/Misc/charset_normalizer|charset_normalizer]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/charset_normalizer` *(active)*
+- [[seeds/Misc/charts|charts]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/charts` *(in-progress)*
+- [[seeds/Misc/chat|chat]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/chat` *(active)*
+- [[seeds/Misc/choreographer-1-2-1-dist-info|choreographer-1.2.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/choreographer-1.2.1.dist-info` *(active)*
+- [[seeds/Misc/choreographer|choreographer]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/choreographer` *(active)*
+- [[seeds/Misc/chromium|chromium]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/chromium` *(archived)*
+- [[seeds/Misc/chunks|chunks]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/chunks` *(active)*
+- [[seeds/Misc/claude-code-local-main|claude-code-local-main]] — `/Users/dibakarmallick/Downloads/claude-code-local-main` *(active)*
+- [[seeds/Misc/cli|cli]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/src/cli` *(archived)*
+- [[seeds/Misc/click-8-3-2-dist-info|click-8.3.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/click-8.3.2.dist-info` *(active)*
+- [[seeds/Misc/click|click]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/click` *(active)*
+- [[seeds/Misc/code|code]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/tests/crx/code` *(archived)*
+- [[seeds/Misc/combined-skill|combined-skill]] — `/Users/dibakarmallick/Downloads/openclaw-repair/combined-skill` *(active)*
+- [[seeds/Misc/common|common]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/common` *(archived)*
+- [[seeds/Misc/components|components]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/apps/dashboard/src/components` *(active)*
+- [[seeds/Misc/compressed-1|compressed(1)]] — `/Users/dibakarmallick/Downloads/compressed(1)` *(active)*
+- [[seeds/Misc/compressed|compressed]] — `/Users/dibakarmallick/Downloads/compressed` *(active)*
+- [[seeds/Misc/conf|conf]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/conf` *(archived)*
+- [[seeds/Misc/config|config]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/config` *(active)*
+- [[seeds/Misc/content|content]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/juggler/content` *(archived)*
+- [[seeds/Misc/contourpy-1-3-3-dist-info|contourpy-1.3.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/contourpy-1.3.3.dist-info` *(active)*
+- [[seeds/Misc/contourpy|contourpy]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/contourpy` *(active)*
+- [[seeds/Misc/core-ui|core-ui]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/core-ui` *(active)*
+- [[seeds/Misc/core|core]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/core` *(in-progress)*
+- [[seeds/Misc/coriander-cleanser|coriander-cleanser]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/body-wash/coriander-cleanser` *(active)*
+- [[seeds/Misc/cron|cron]] — `/Users/dibakarmallick/Desktop/mission-control-optimized/src/app/api/cron` *(active)*
+- [[seeds/Misc/crx|crx]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/tests/crx` *(archived)*
+- [[seeds/Misc/csharp|csharp]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/doclint/linting-code-snippets/csharp` *(archived)*
+- [[seeds/Misc/csscoverage|csscoverage]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/csscoverage` *(archived)*
+- [[seeds/Misc/custom-fields|custom-fields]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/custom-fields` *(in-progress)*
+- [[seeds/Misc/customers|customers]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/templates/customers` *(active)*
+- [[seeds/Misc/cycler-0-12-1-dist-info|cycler-0.12.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/cycler-0.12.1.dist-info` *(active)*
+- [[seeds/Misc/cycler|cycler]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/cycler` *(active)*
+- [[seeds/Misc/cypress|cypress]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/cypress` *(unknown)*
+- [[seeds/Misc/daily-joke-10am|daily-joke-10am]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-10am` *(active)*
+- [[seeds/Misc/daily-joke-10pm|daily-joke-10pm]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-10pm` *(active)*
+- [[seeds/Misc/daily-joke-2am|daily-joke-2am]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-2am` *(active)*
+- [[seeds/Misc/daily-joke-2pm|daily-joke-2pm]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-2pm` *(active)*
+- [[seeds/Misc/daily-joke-6am|daily-joke-6am]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-6am` *(active)*
+- [[seeds/Misc/daily-joke-6pm|daily-joke-6pm]] — `/Users/dibakarmallick/Documents/Claude/Scheduled/daily-joke-6pm` *(active)*
+- [[seeds/Misc/dash-4-1-0-dist-info|dash-4.1.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/dash-4.1.0.dist-info` *(active)*
+- [[seeds/Misc/dash|dash]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/dash` *(active)*
+- [[seeds/Misc/dashboard|(dashboard)]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/app/(dashboard)` *(in-progress)*
+- [[seeds/Misc/data-cbb3ee87-7b8d-474c-ae5c-c38a14e910b3-1776394700-63b5ed0|data-cbb3ee87-7b8d-474c-ae5c-c38a14e910b3-1776394700-63b5ed0b-batch-0000]] — `/Users/dibakarmallick/Downloads/data-cbb3ee87-7b8d-474c-ae5c-c38a14e910b3-1776394700-63b5ed0b-batch-0000` *(active)*
+- [[seeds/Misc/data|data]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/data` *(in-progress)*
+- [[seeds/Misc/dateutil|dateutil]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/dateutil` *(active)*
+- [[seeds/Misc/db|db]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/db` *(in-progress)*
+- [[seeds/Misc/de-lproj|de.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/de.lproj` *(active)*
+- [[seeds/Misc/demo-battery-api|demo-battery-api]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/examples/mock-battery/demo-battery-api` *(archived)*
+- [[seeds/Misc/deployment|deployment]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/deployment` *(in-progress)*
+- [[seeds/Misc/development|development]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/development` *(in-progress)*
+- [[seeds/Misc/digits|digits]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/digits` *(archived)*
+- [[seeds/Misc/dispatchers|dispatchers]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/src/server/dispatchers` *(archived)*
+- [[seeds/Misc/docker|docker]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/docker` *(archived)*
+- [[seeds/Misc/doclint|doclint]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/doclint` *(archived)*
+- [[seeds/Misc/docs|docs]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs` *(in-progress)*
+- [[seeds/Misc/doomsday-arch-20260420-R7K3X2|doomsday-arch-20260420-R7K3X2]] — `/Users/dibakarmallick/Desktop/openclaw-setup/doomsday-arch-20260420-R7K3X2` *(unknown)*
+- [[seeds/Misc/drive-archieve|drive archieve]] — `/Users/dibakarmallick/Downloads/drive archieve` *(in-progress)*
+- [[seeds/Misc/e2e-openclaw|e2e-openclaw]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/scripts/e2e-openclaw` *(active)*
+- [[seeds/Misc/e2e|e2e]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/cypress/e2e` *(in-progress)*
+- [[seeds/Misc/ePUB-Format|ePUB Format]] — `/Users/dibakarmallick/Downloads/MCAT/Kaplan MCAT Review 2015/ePUB Format` *(in-progress)*
+- [[seeds/Misc/eau-de-parfum|eau-de-parfum]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/eau-de-parfum` *(unknown)*
+- [[seeds/Misc/elementhandle-screenshot-spec-ts-snapshots|elementhandle-screenshot.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/elementhandle-screenshot.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/eleos-hand-balm|eleos-hand-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/hand-cream/eleos-hand-balm` *(active)*
+- [[seeds/Misc/empty|empty]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers/empty` *(archived)*
+- [[seeds/Misc/emulation-focus-spec-ts-snapshots|emulation-focus.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/emulation-focus.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/en-lproj|en.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/en.lproj` *(active)*
+- [[seeds/Misc/es-lproj|es.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/es.lproj` *(active)*
+- [[seeds/Misc/es6|es6]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/es6` *(archived)*
+- [[seeds/Misc/event_bus|event_bus]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/event_bus` *(archived)*
+- [[seeds/Misc/events|events]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/events` *(archived)*
+- [[seeds/Misc/expect-matcher-result-spec-ts-snapshots|expect-matcher-result.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/expect-matcher-result.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/expect|expect]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/expect` *(archived)*
+- [[seeds/Misc/expectations|expectations]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/bidi/expectations` *(archived)*
+- [[seeds/Misc/extension-with-logging|extension-with-logging]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/extension-with-logging` *(archived)*
+- [[seeds/Misc/fetch|fetch]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers/fetch` *(archived)*
+- [[seeds/Misc/fetchdummy|fetchdummy]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers/fetchdummy` *(archived)*
+- [[seeds/Misc/file-knowledge|file-knowledge]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/file-knowledge` *(unknown)*
+- [[seeds/Misc/files|files]] — `/Users/dibakarmallick/Desktop/TenacitOS_Unified/src/app/api/files` *(active)*
+- [[seeds/Misc/firefox|firefox]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox` *(archived)*
+- [[seeds/Misc/fixture-scripts|fixture-scripts]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/installation/fixture-scripts` *(archived)*
+- [[seeds/Misc/fixtures|fixtures]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/image_tools/fixtures` *(unknown)*
+- [[seeds/Misc/flask-3-1-3-dist-info|flask-3.1.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/flask-3.1.3.dist-info` *(active)*
+- [[seeds/Misc/fontTools|fontTools]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/fontTools` *(active)*
+- [[seeds/Misc/fonttools-4-62-1-dist-info|fonttools-4.62.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/fonttools-4.62.1.dist-info` *(active)*
+- [[seeds/Misc/fr-lproj|fr.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/fr.lproj` *(active)*
+- [[seeds/Misc/frames-1773146804048|frames-1773146804048]] — `/Users/dibakarmallick/Downloads/frames-1773146804048` *(in-progress)*
+- [[seeds/Misc/frames|frames]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/frames` *(archived)*
+- [[seeds/Misc/fs-spec-ts-snapshots|fs.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/tests/crx/fs.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/gateways|gateways]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/gateways` *(in-progress)*
+- [[seeds/Misc/geranium-leaf-balm|geranium-leaf-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/body-lotion/geranium-leaf-balm` *(active)*
+- [[seeds/Misc/geranium-leaf-body-balm|geranium-leaf-body-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/body-lotion/geranium-leaf-body-balm` *(active)*
+- [[seeds/Misc/geranium-leaf-cleanser|geranium-leaf-cleanser]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/body-wash/geranium-leaf-cleanser` *(active)*
+- [[seeds/Misc/getting-started|getting-started]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/getting-started` *(in-progress)*
+- [[seeds/Misc/git|git]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/git` *(active)*
+- [[seeds/Misc/gitdb-4-0-12-dist-info|gitdb-4.0.12.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/gitdb-4.0.12.dist-info` *(active)*
+- [[seeds/Misc/gitdb|gitdb]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/gitdb` *(active)*
+- [[seeds/Misc/gitpython-3-1-46-dist-info|gitpython-3.1.46.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/gitpython-3.1.46.dist-info` *(active)*
+- [[seeds/Misc/grad-me|grad me]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/grad me` *(active)*
+- [[seeds/Misc/hand-cream|hand-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-cream` *(unknown)*
+- [[seeds/Misc/hand-wash|hand-wash]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-wash` *(unknown)*
+- [[seeds/Misc/headshot|headshot]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/headshot` *(active)*
+- [[seeds/Misc/himavalley-copy|himavalley copy]] — `/Users/dibakarmallick/Desktop/working projects/himavalley copy` *(active)*
+- [[seeds/Misc/himavalley-images|himavalley images]] — `/Users/dibakarmallick/Desktop/working projects/himavalley images` *(active)*
+- [[seeds/Misc/himavalley-scrape|himavalley scrape]] — `/Users/dibakarmallick/Downloads/himavalley scrape` *(unknown)*
+- [[seeds/Misc/himavalley|himavalley]] — `/Users/dibakarmallick/Desktop/himavalley` *(active)*
+- [[seeds/Misc/hinoki-body-cream|hinoki-body-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-lotion/hinoki-body-cream` *(active)*
+- [[seeds/Misc/hinoki-hand-pomade|hinoki-hand-pomade]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-cream/hinoki-hand-pomade` *(active)*
+- [[seeds/Misc/hinoki-shower-gel-250ml|hinoki-shower-gel-250ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-wash/hinoki-shower-gel-250ml` *(active)*
+- [[seeds/Misc/hinoki-shower-gel|hinoki-shower-gel]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/body-wash/hinoki-shower-gel` *(active)*
+- [[seeds/Misc/hinoki-soap-250ml|hinoki-soap-250ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/hand-wash/hinoki-soap-250ml` *(active)*
+- [[seeds/Misc/hinoki-soap-500ml|hinoki-soap-500ml]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-wash/hinoki-soap-500ml` *(active)*
+- [[seeds/Misc/hiroi-sora-Umi-OCR-6563ff0|hiroi-sora-Umi-OCR-6563ff0]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0` *(archived)*
+- [[seeds/Misc/http|http]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/docs/http` *(archived)*
+- [[seeds/Misc/hwyl-edp|hwyl-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/eau-de-parfum/hwyl-edp` *(active)*
+- [[seeds/Misc/i18n|i18n]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/i18n` *(active)*
+- [[seeds/Misc/icon|icon]] — `/Users/dibakarmallick/Downloads/kimi-webbridge-extension/icon` *(active)*
+- [[seeds/Misc/icons|icons]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/images/icons` *(archived)*
+- [[seeds/Misc/idna-3-11-dist-info|idna-3.11.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/idna-3.11.dist-info` *(active)*
+- [[seeds/Misc/idna|idna]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/idna` *(active)*
+- [[seeds/Misc/iloveimg-converted-1|iloveimg-converted(1)]] — `/Users/dibakarmallick/Downloads/iloveimg-converted(1)` *(active)*
+- [[seeds/Misc/image_controller|image_controller]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/image_controller` *(archived)*
+- [[seeds/Misc/image_tools|image_tools]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/image_tools` *(archived)*
+- [[seeds/Misc/img|img]] — `/Users/dibakarmallick/Downloads/stuhack-main/img` *(in-progress)*
+- [[seeds/Misc/importlib_metadata-9-0-0-dist-info|importlib_metadata-9.0.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/importlib_metadata-9.0.0.dist-info` *(active)*
+- [[seeds/Misc/importlib_metadata|importlib_metadata]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/importlib_metadata` *(active)*
+- [[seeds/Misc/imports|imports]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/imports` *(archived)*
+- [[seeds/Misc/iniconfig-2-3-0-dist-info|iniconfig-2.3.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/iniconfig-2.3.0.dist-info` *(active)*
+- [[seeds/Misc/iniconfig|iniconfig]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/iniconfig` *(active)*
+- [[seeds/Misc/input|input]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/input` *(archived)*
+- [[seeds/Misc/inside_docker|inside_docker]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/linux-browser-dependencies/inside_docker` *(archived)*
+- [[seeds/Misc/inspector|inspector]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/inspector` *(archived)*
+- [[seeds/Misc/installation|installation]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/installation` *(archived)*
+- [[seeds/Misc/isomorphic|isomorphic]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/isomorphic` *(archived)*
+- [[seeds/Misc/it-lproj|it.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/it.lproj` *(active)*
+- [[seeds/Misc/itsdangerous-2-2-0-dist-info|itsdangerous-2.2.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/itsdangerous-2.2.0.dist-info` *(active)*
+- [[seeds/Misc/itsdangerous|itsdangerous]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/itsdangerous` *(active)*
+- [[seeds/Misc/java-base|java.base]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.base` *(archived)*
+- [[seeds/Misc/java-compiler|java.compiler]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.compiler` *(archived)*
+- [[seeds/Misc/java-datatransfer|java.datatransfer]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.datatransfer` *(archived)*
+- [[seeds/Misc/java-desktop|java.desktop]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.desktop` *(archived)*
+- [[seeds/Misc/java-instrument|java.instrument]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.instrument` *(archived)*
+- [[seeds/Misc/java-logging|java.logging]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.logging` *(archived)*
+- [[seeds/Misc/java-management-rmi|java.management.rmi]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.management.rmi` *(archived)*
+- [[seeds/Misc/java-management|java.management]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.management` *(archived)*
+- [[seeds/Misc/java-naming|java.naming]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.naming` *(archived)*
+- [[seeds/Misc/java-net-http|java.net.http]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.net.http` *(archived)*
+- [[seeds/Misc/java-prefs|java.prefs]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.prefs` *(archived)*
+- [[seeds/Misc/java-rmi|java.rmi]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.rmi` *(archived)*
+- [[seeds/Misc/java-scripting|java.scripting]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.scripting` *(archived)*
+- [[seeds/Misc/java-se|java.se]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.se` *(archived)*
+- [[seeds/Misc/java-security-jgss|java.security.jgss]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.security.jgss` *(archived)*
+- [[seeds/Misc/java-security-sasl|java.security.sasl]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.security.sasl` *(archived)*
+- [[seeds/Misc/java-smartcardio|java.smartcardio]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.smartcardio` *(archived)*
+- [[seeds/Misc/java-sql-rowset|java.sql.rowset]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.sql.rowset` *(archived)*
+- [[seeds/Misc/java-sql|java.sql]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.sql` *(archived)*
+- [[seeds/Misc/java-transaction-xa|java.transaction.xa]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.transaction.xa` *(archived)*
+- [[seeds/Misc/java-xml-crypto|java.xml.crypto]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.xml.crypto` *(archived)*
+- [[seeds/Misc/java-xml|java.xml]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/java.xml` *(archived)*
+- [[seeds/Misc/javafx-base|javafx.base]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.base` *(archived)*
+- [[seeds/Misc/javafx-controls|javafx.controls]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.controls` *(archived)*
+- [[seeds/Misc/javafx-fxml|javafx.fxml]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.fxml` *(archived)*
+- [[seeds/Misc/javafx-graphics|javafx.graphics]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.graphics` *(archived)*
+- [[seeds/Misc/javafx-media|javafx.media]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.media` *(archived)*
+- [[seeds/Misc/javafx-swing|javafx.swing]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.swing` *(archived)*
+- [[seeds/Misc/javafx-web|javafx.web]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/javafx.web` *(archived)*
+- [[seeds/Misc/jdk-accessibility|jdk.accessibility]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.accessibility` *(archived)*
+- [[seeds/Misc/jdk-charsets|jdk.charsets]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.charsets` *(archived)*
+- [[seeds/Misc/jdk-crypto-cryptoki|jdk.crypto.cryptoki]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.crypto.cryptoki` *(archived)*
+- [[seeds/Misc/jdk-crypto-ec|jdk.crypto.ec]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.crypto.ec` *(archived)*
+- [[seeds/Misc/jdk-dynalink|jdk.dynalink]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.dynalink` *(archived)*
+- [[seeds/Misc/jdk-httpserver|jdk.httpserver]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.httpserver` *(archived)*
+- [[seeds/Misc/jdk-incubator-vector|jdk.incubator.vector]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.incubator.vector` *(archived)*
+- [[seeds/Misc/jdk-internal-vm-ci|jdk.internal.vm.ci]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.internal.vm.ci` *(archived)*
+- [[seeds/Misc/jdk-internal-vm-compiler-management|jdk.internal.vm.compiler.management]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.internal.vm.compiler.management` *(archived)*
+- [[seeds/Misc/jdk-internal-vm-compiler|jdk.internal.vm.compiler]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.internal.vm.compiler` *(archived)*
+- [[seeds/Misc/jdk-jdwp-agent|jdk.jdwp.agent]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.jdwp.agent` *(archived)*
+- [[seeds/Misc/jdk-jfr|jdk.jfr]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.jfr` *(archived)*
+- [[seeds/Misc/jdk-jsobject|jdk.jsobject]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.jsobject` *(archived)*
+- [[seeds/Misc/jdk-localedata|jdk.localedata]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.localedata` *(archived)*
+- [[seeds/Misc/jdk-management-agent|jdk.management.agent]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.management.agent` *(archived)*
+- [[seeds/Misc/jdk-management-jfr|jdk.management.jfr]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.management.jfr` *(archived)*
+- [[seeds/Misc/jdk-management|jdk.management]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.management` *(archived)*
+- [[seeds/Misc/jdk-naming-dns|jdk.naming.dns]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.naming.dns` *(archived)*
+- [[seeds/Misc/jdk-naming-rmi|jdk.naming.rmi]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.naming.rmi` *(archived)*
+- [[seeds/Misc/jdk-net|jdk.net]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.net` *(archived)*
+- [[seeds/Misc/jdk-nio-mapmode|jdk.nio.mapmode]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.nio.mapmode` *(archived)*
+- [[seeds/Misc/jdk-sctp|jdk.sctp]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.sctp` *(archived)*
+- [[seeds/Misc/jdk-security-auth|jdk.security.auth]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.security.auth` *(archived)*
+- [[seeds/Misc/jdk-security-jgss|jdk.security.jgss]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.security.jgss` *(archived)*
+- [[seeds/Misc/jdk-unsupported-desktop|jdk.unsupported.desktop]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.unsupported.desktop` *(archived)*
+- [[seeds/Misc/jdk-unsupported|jdk.unsupported]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.unsupported` *(archived)*
+- [[seeds/Misc/jdk-xml-dom|jdk.xml.dom]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.xml.dom` *(archived)*
+- [[seeds/Misc/jdk-zipfs|jdk.zipfs]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal/jdk.zipfs` *(archived)*
+- [[seeds/Misc/jfr|jfr]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/lib/jfr` *(archived)*
+- [[seeds/Misc/jinja2-3-1-6-dist-info|jinja2-3.1.6.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jinja2-3.1.6.dist-info` *(active)*
+- [[seeds/Misc/jinja2|jinja2]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jinja2` *(active)*
+- [[seeds/Misc/jre|jre]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre` *(archived)*
+- [[seeds/Misc/js|js]] — `/Users/dibakarmallick/Desktop/simplex research papers copy/Research_Tank/js` *(active)*
+- [[seeds/Misc/jscoverage|jscoverage]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/jscoverage` *(archived)*
+- [[seeds/Misc/jsonschema-4-26-0-dist-info|jsonschema-4.26.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jsonschema-4.26.0.dist-info` *(active)*
+- [[seeds/Misc/jsonschema|jsonschema]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jsonschema` *(active)*
+- [[seeds/Misc/jsonschema_specifications-2025-9-1-dist-info|jsonschema_specifications-2025.9.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jsonschema_specifications-2025.9.1.dist-info` *(active)*
+- [[seeds/Misc/jsonschema_specifications|jsonschema_specifications]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/jsonschema_specifications` *(active)*
+- [[seeds/Misc/juggler|juggler]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/juggler` *(archived)*
+- [[seeds/Misc/jupyter|jupyter]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/share/jupyter` *(unknown)*
+- [[seeds/Misc/kaleido-1-2-0-dist-info|kaleido-1.2.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/kaleido-1.2.0.dist-info` *(active)*
+- [[seeds/Misc/kaleido|kaleido]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/kaleido` *(active)*
+- [[seeds/Misc/kenney|kenney]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/public/office-sprites/kenney` *(active)*
+- [[seeds/Misc/key_mouse|key_mouse]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/event_bus/key_mouse` *(archived)*
+- [[seeds/Misc/kimi-webbridge-extension|kimi-webbridge-extension]] — `/Users/dibakarmallick/Downloads/kimi-webbridge-extension` *(active)*
+- [[seeds/Misc/kiwisolver-1-5-0-dist-info|kiwisolver-1.5.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/kiwisolver-1.5.0.dist-info` *(active)*
+- [[seeds/Misc/kiwisolver|kiwisolver]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/kiwisolver` *(active)*
+- [[seeds/Misc/launchers|launchers]] — `/Users/dibakarmallick/Downloads/claude-code-local-main/launchers` *(active)*
+- [[seeds/Misc/layout|layout]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/layout` *(active)*
+- [[seeds/Misc/legal|legal]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/legal` *(unknown)*
+- [[seeds/Misc/lib|lib]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/apps/dashboard/src/lib` *(active)*
+- [[seeds/Misc/library|library]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library` *(archived)*
+- [[seeds/Misc/limited|limited]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/conf/security/policy/limited` *(archived)*
+- [[seeds/Misc/linting-code-snippets|linting-code-snippets]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/doclint/linting-code-snippets` *(archived)*
+- [[seeds/Misc/linux-browser-dependencies|linux-browser-dependencies]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/linux-browser-dependencies` *(archived)*
+- [[seeds/Misc/linux|linux]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/platform/linux` *(archived)*
+- [[seeds/Misc/load-event|load-event]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/load-event` *(archived)*
+- [[seeds/Misc/loader|loader]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/loader` *(archived)*
+- [[seeds/Misc/locales|locales]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/locales` *(active)*
+- [[seeds/Misc/locator-misc-2-spec-ts-snapshots|locator-misc-2.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/locator-misc-2.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/login|login]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/app/login` *(in-progress)*
+- [[seeds/Misc/logistro-2-0-1-dist-info|logistro-2.0.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/logistro-2.0.1.dist-info` *(active)*
+- [[seeds/Misc/logistro|logistro]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/logistro` *(active)*
+- [[seeds/Misc/logos|logos]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/lunaia-catalog/logos` *(active)*
+- [[seeds/Misc/lunaia-catalog|lunaia-catalog]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/lunaia-catalog` *(unknown)*
+- [[seeds/Misc/management|management]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/conf/management` *(archived)*
+- [[seeds/Misc/markupsafe-3-0-3-dist-info|markupsafe-3.0.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/markupsafe-3.0.3.dist-info` *(active)*
+- [[seeds/Misc/markupsafe|markupsafe]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/markupsafe` *(active)*
+- [[seeds/Misc/marrakech-intense-edp|marrakech-intense-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/eau-de-parfum/marrakech-intense-edp` *(active)*
+- [[seeds/Misc/matchers|matchers]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/matchers` *(archived)*
+- [[seeds/Misc/matplotlib-3-10-8-dist-info|matplotlib-3.10.8.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/matplotlib-3.10.8.dist-info` *(active)*
+- [[seeds/Misc/matplotlib|matplotlib]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/matplotlib` *(active)*
+- [[seeds/Misc/memory-brain-setup|memory-brain-setup]] — `/Users/dibakarmallick/Downloads/memory-brain-setup` *(active)*
+- [[seeds/Misc/messages|messages]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/messages` *(active)*
+- [[seeds/Misc/migrations|migrations]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/migrations` *(in-progress)*
+- [[seeds/Misc/mission-control-installer|mission-control-installer]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/skills/mission-control-installer` *(active)*
+- [[seeds/Misc/mission-control-manage|mission-control-manage]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/skills/mission-control-manage` *(active)*
+- [[seeds/Misc/mission-control-wtih-3-repo-files|mission control wtih 3 repo files]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files` *(active)*
+- [[seeds/Misc/mission|mission]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/mission` *(archived)*
+- [[seeds/Misc/modals|modals]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/modals` *(active)*
+- [[seeds/Misc/models|models]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/models` *(in-progress)*
+- [[seeds/Misc/modernizr|modernizr]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/modernizr` *(archived)*
+- [[seeds/Misc/modules|modules]] — `/Users/dibakarmallick/Desktop/research-automation-system/modules` *(active)*
+- [[seeds/Misc/molecules|molecules]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/molecules` *(in-progress)*
+- [[seeds/Misc/muddy-water-symposium|muddy water symposium]] — `/Users/dibakarmallick/Documents/muddy water symposium` *(unknown)*
+- [[seeds/Misc/narwhals-2-19-0-dist-info|narwhals-2.19.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/narwhals-2.19.0.dist-info` *(active)*
+- [[seeds/Misc/narwhals|narwhals]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/narwhals` *(active)*
+- [[seeds/Misc/nbextensions|nbextensions]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/share/jupyter/nbextensions` *(unknown)*
+- [[seeds/Misc/nest_asyncio-1-6-0-dist-info|nest_asyncio-1.6.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/nest_asyncio-1.6.0.dist-info` *(active)*
+- [[seeds/Misc/network-tab|network-tab]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/network-tab` *(archived)*
+- [[seeds/Misc/networkx-3-6-1-dist-info|networkx-3.6.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/networkx-3.6.1.dist-info` *(active)*
+- [[seeds/Misc/networkx|networkx]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/networkx` *(active)*
+- [[seeds/Misc/nl-lproj|nl.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/nl.lproj` *(active)*
+- [[seeds/Misc/notebook-d|notebook.d]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/etc/jupyter/nbconfig/notebook.d` *(active)*
+- [[seeds/Misc/numpy-2-4-4-dist-info|numpy-2.4.4.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/numpy-2.4.4.dist-info` *(active)*
+- [[seeds/Misc/numpy|numpy]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/numpy` *(active)*
+- [[seeds/Misc/ocr|ocr]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/ocr` *(unknown)*
+- [[seeds/Misc/office-3d|office-3d]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/office-3d` *(unknown)*
+- [[seeds/Misc/office-sprites|office-sprites]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/public/office-sprites` *(active)*
+- [[seeds/Misc/office|office]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/src/components/office` *(in-progress)*
+- [[seeds/Misc/onboarding|onboarding]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/onboarding` *(active)*
+- [[seeds/Misc/openclaw-repair|openclaw-repair]] — `/Users/dibakarmallick/Downloads/openclaw-repair` *(active)*
+- [[seeds/Misc/openclaw-setup|openclaw-setup]] — `/Users/dibakarmallick/Desktop/openclaw-setup` *(active)*
+- [[seeds/Misc/openclaw|openclaw]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/services/openclaw` *(in-progress)*
+- [[seeds/Misc/operations|operations]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/operations` *(in-progress)*
+- [[seeds/Misc/ops|ops]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/ops` *(active)*
+- [[seeds/Misc/organisms|organisms]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/organisms` *(in-progress)*
+- [[seeds/Misc/organization|organization]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/organization` *(in-progress)*
+- [[seeds/Misc/orjson-3-11-8-dist-info|orjson-3.11.8.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/orjson-3.11.8.dist-info` *(active)*
+- [[seeds/Misc/orjson|orjson]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/orjson` *(active)*
+- [[seeds/Misc/output|output]] — `/Users/dibakarmallick/Desktop/research-automation-system/data/output` *(active)*
+- [[seeds/Misc/packages|packages]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages` *(unknown)*
+- [[seeds/Misc/packaging-26-1-dist-info|packaging-26.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/packaging-26.1.dist-info` *(active)*
+- [[seeds/Misc/packaging|packaging]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/packaging` *(active)*
+- [[seeds/Misc/page-add-locator-handler-spec-ts-snapshots|page-add-locator-handler.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/page-add-locator-handler.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/page-request-fulfill-spec-ts-snapshots|page-request-fulfill.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/page-request-fulfill.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/page-screenshot-spec-ts-snapshots|page-screenshot.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page/page-screenshot.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/page|page]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/page` *(archived)*
+- [[seeds/Misc/pandas-3-0-2-dist-info|pandas-3.0.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pandas-3.0.2.dist-info` *(active)*
+- [[seeds/Misc/panels|panels]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/panels` *(active)*
+- [[seeds/Misc/parser_tools|parser_tools]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/ocr/tbpu/parser_tools` *(archived)*
+- [[seeds/Misc/patreon-dl-gui-2-7-1_x64-Setup|patreon-dl-gui-2.7.1_x64 Setup]] — `/Users/dibakarmallick/Downloads/patreon-dl-gui-2.7.1_x64 Setup` *(in-progress)*
+- [[seeds/Misc/patreon-dl-gui|patreon-dl-gui]] — `/Users/dibakarmallick/Downloads/usr/lib/patreon-dl-gui` *(in-progress)*
+- [[seeds/Misc/patreon-dl-gui_2-7-1_amd64|patreon-dl-gui_2.7.1_amd64]] — `/Users/dibakarmallick/Downloads/patreon-dl-gui_2.7.1_amd64` *(in-progress)*
+- [[seeds/Misc/perfume|perfume]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/perfume` *(unknown)*
+- [[seeds/Misc/pillow-12-2-0-dist-info|pillow-12.2.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pillow-12.2.0.dist-info` *(active)*
+- [[seeds/Misc/pip-26-0-dist-info|pip-26.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pip-26.0.dist-info` *(active)*
+- [[seeds/Misc/pip|pip]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pip` *(active)*
+- [[seeds/Misc/pipe|pipe]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/juggler/pipe` *(archived)*
+- [[seeds/Misc/pl-lproj|pl.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/pl.lproj` *(active)*
+- [[seeds/Misc/platform|platform]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/platform` *(archived)*
+- [[seeds/Misc/playwright-test|playwright-test]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/playwright-test` *(archived)*
+- [[seeds/Misc/playwright|playwright]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/components/ct-react17/playwright` *(archived)*
+- [[seeds/Misc/plotly-6-7-0-dist-info|plotly-6.7.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/plotly-6.7.0.dist-info` *(active)*
+- [[seeds/Misc/plotly|plotly]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/plotly` *(active)*
+- [[seeds/Misc/pluggy-1-6-0-dist-info|pluggy-1.6.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pluggy-1.6.0.dist-info` *(active)*
+- [[seeds/Misc/pluggy|pluggy]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pluggy` *(active)*
+- [[seeds/Misc/plugins|plugins]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/dev-tools/i18n/plugins` *(unknown)*
+- [[seeds/Misc/plugins_controller|plugins_controller]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/plugins_controller` *(archived)*
+- [[seeds/Misc/policy|policy]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/policy` *(in-progress)*
+- [[seeds/Misc/popup|popup]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/popup` *(archived)*
+- [[seeds/Misc/poster-present|poster present]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/poster present` *(active)*
+- [[seeds/Misc/preferences|preferences]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/preferences` *(archived)*
+- [[seeds/Misc/preloads|preloads]] — `/Users/dibakarmallick/Desktop/working projects/CHICHATEA WEBSITE/preloads` *(active)*
+- [[seeds/Misc/production|production]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/production` *(in-progress)*
+- [[seeds/Misc/protobuf-7-34-1-dist-info|protobuf-7.34.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/protobuf-7.34.1.dist-info` *(active)*
+- [[seeds/Misc/protocol|protocol]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/juggler/protocol` *(archived)*
+- [[seeds/Misc/providers|providers]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/assistant/src/providers` *(active)*
+- [[seeds/Misc/pt-lproj|pt.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/pt.lproj` *(active)*
+- [[seeds/Misc/public|public]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/public` *(in-progress)*
+- [[seeds/Misc/py_src|py_src]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src` *(archived)*
+- [[seeds/Misc/pyarrow-23-0-1-dist-info|pyarrow-23.0.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pyarrow-23.0.1.dist-info` *(active)*
+- [[seeds/Misc/pyarrow|pyarrow]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pyarrow` *(active)*
+- [[seeds/Misc/pygments-2-20-0-dist-info|pygments-2.20.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pygments-2.20.0.dist-info` *(active)*
+- [[seeds/Misc/pygments|pygments]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pygments` *(active)*
+- [[seeds/Misc/pyparsing-3-3-2-dist-info|pyparsing-3.3.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pyparsing-3.3.2.dist-info` *(active)*
+- [[seeds/Misc/pyparsing|pyparsing]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pyparsing` *(active)*
+- [[seeds/Misc/pytest-9-0-3-dist-info|pytest-9.0.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pytest-9.0.3.dist-info` *(active)*
+- [[seeds/Misc/pytest|pytest]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pytest` *(active)*
+- [[seeds/Misc/pytest_timeout-2-4-0-dist-info|pytest_timeout-2.4.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/pytest_timeout-2.4.0.dist-info` *(active)*
+- [[seeds/Misc/python_dateutil-2-9-0-post0-dist-info|python_dateutil-2.9.0.post0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/python_dateutil-2.9.0.post0.dist-info` *(active)*
+- [[seeds/Misc/qml|qml]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res/qml` *(archived)*
+- [[seeds/Misc/qt_res|qt_res]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/qt_res` *(unknown)*
+- [[seeds/Misc/react|react]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/react` *(archived)*
+- [[seeds/Misc/reading-list|reading-list]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/reading-list` *(archived)*
+- [[seeds/Misc/recorder|recorder]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/injected/src/recorder` *(archived)*
+- [[seeds/Misc/reference|reference]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/reference` *(in-progress)*
+- [[seeds/Misc/references|references]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/lunaia-catalog/02-hand-wash/references` *(active)*
+- [[seeds/Misc/referencing-0-37-0-dist-info|referencing-0.37.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/referencing-0.37.0.dist-info` *(active)*
+- [[seeds/Misc/referencing|referencing]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/referencing` *(active)*
+- [[seeds/Misc/rejuvenate-balm|rejuvenate-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/body-lotion/rejuvenate-balm` *(active)*
+- [[seeds/Misc/rejuvenate-body-balm|rejuvenate-body-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/body-lotion/rejuvenate-body-balm` *(active)*
+- [[seeds/Misc/release|release]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/release` *(in-progress)*
+- [[seeds/Misc/releases|releases]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/docs/releases` *(active)*
+- [[seeds/Misc/remote|remote]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/src/remote` *(archived)*
+- [[seeds/Misc/requests-2-33-1-dist-info|requests-2.33.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/requests-2.33.1.dist-info` *(active)*
+- [[seeds/Misc/requests|requests]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/requests` *(active)*
+- [[seeds/Misc/resolute-balm|resolute-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/body-lotion/resolute-balm` *(active)*
+- [[seeds/Misc/resume-tailoring-skill-master-2|resume-tailoring-skill-master 2]] — `/Users/dibakarmallick/Downloads/resume-tailoring-skill-master 2` *(in-progress)*
+- [[seeds/Misc/resume-tailoring-skill-master|resume-tailoring-skill-master]] — `/Users/dibakarmallick/Downloads/resume-tailoring-skill-master` *(in-progress)*
+- [[seeds/Misc/resume-tailoring|resume-tailoring]] — `/Users/dibakarmallick/Downloads/resume-tailoring-skill-master/skills/resume-tailoring` *(in-progress)*
+- [[seeds/Misc/resurrection-hand-balm|resurrection-hand-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/hand-cream/resurrection-hand-balm` *(active)*
+- [[seeds/Misc/resurrection-hand-wash|resurrection-hand-wash]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/hand-wash/resurrection-hand-wash` *(active)*
+- [[seeds/Misc/retrying-1-4-2-dist-info|retrying-1.4.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/retrying-1.4.2.dist-info` *(active)*
+- [[seeds/Misc/reverence-hand-balm|reverence-hand-balm]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/hand-cream/reverence-hand-balm` *(active)*
+- [[seeds/Misc/reverence-hand-wash|reverence-hand-wash]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/hand-wash/reverence-hand-wash` *(active)*
+- [[seeds/Misc/rose-body-cleanser|rose-body-cleanser]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/body-wash/rose-body-cleanser` *(active)*
+- [[seeds/Misc/rose31-body-lotion|rose31-body-lotion]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/body-lotion/rose31-body-lotion` *(active)*
+- [[seeds/Misc/rpds|rpds]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/rpds` *(active)*
+- [[seeds/Misc/rpds_py-0-30-0-dist-info|rpds_py-0.30.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/rpds_py-0.30.0.dist-info` *(active)*
+- [[seeds/Misc/ru-lproj|ru.lproj]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/ru.lproj` *(active)*
+- [[seeds/Misc/runner|runner]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/runner` *(archived)*
+- [[seeds/Misc/sample_papers|sample_papers]] — `/Users/dibakarmallick/Downloads/simplex-intelligence/sample_papers` *(active)*
+- [[seeds/Misc/santal33-body-lotion|santal33-body-lotion]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-lotion/santal33-body-lotion` *(active)*
+- [[seeds/Misc/santal33-edp|santal33-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/eau-de-parfum/santal33-edp` *(active)*
+- [[seeds/Misc/santal33-hand-cream|santal33-hand-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-cream/santal33-hand-cream` *(active)*
+- [[seeds/Misc/santal33-shower-gel|santal33-shower-gel]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-wash/santal33-shower-gel` *(active)*
+- [[seeds/Misc/schemas|schemas]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/schemas` *(in-progress)*
+- [[seeds/Misc/scipy-1-17-1-dist-info|scipy-1.17.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/scipy-1.17.1.dist-info` *(active)*
+- [[seeds/Misc/scipy|scipy]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/scipy` *(active)*
+- [[seeds/Misc/scraped-images-hq|scraped-images-hq]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq` *(unknown)*
+- [[seeds/Misc/scraped-images-selenium|scraped-images-selenium]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium` *(unknown)*
+- [[seeds/Misc/scraped-images|scraped-images]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images` *(unknown)*
+- [[seeds/Misc/screencast|screencast]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/firefox/juggler/screencast` *(archived)*
+- [[seeds/Misc/screenshot-spec-ts-snapshots|screenshot.spec.ts-snapshots]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/screenshot.spec.ts-snapshots` *(archived)*
+- [[seeds/Misc/screenshots|screenshots]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/tenacitOS-main/docs/screenshots` *(in-progress)*
+- [[seeds/Misc/scripts|scripts]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/scripts` *(active)*
+- [[seeds/Misc/sections|sections]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/sections` *(active)*
+- [[seeds/Misc/security|security]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/lib/security` *(archived)*
+- [[seeds/Misc/selenium-grid|selenium-grid]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/selenium-grid` *(archived)*
+- [[seeds/Misc/server|server]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/lib/server` *(archived)*
+- [[seeds/Misc/services|services]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/services` *(in-progress)*
+- [[seeds/Misc/serviceworkers|serviceworkers]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers` *(unknown)*
+- [[seeds/Misc/setuptools-82-0-1-dist-info|setuptools-82.0.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/setuptools-82.0.1.dist-info` *(active)*
+- [[seeds/Misc/setuptools|setuptools]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/setuptools` *(active)*
+- [[seeds/Misc/share|share]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/share` *(unknown)*
+- [[seeds/Misc/shared-lib|shared-lib]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/shared-lib` *(unknown)*
+- [[seeds/Misc/shared-worker|shared-worker]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/shared-worker` *(archived)*
+- [[seeds/Misc/shared|shared]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/web/src/shared` *(archived)*
+- [[seeds/Misc/shims|shims]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/src/shims` *(archived)*
+- [[seeds/Misc/shopify-theme|shopify-theme]] — `/Users/dibakarmallick/Desktop/himavalley/shopify-theme` *(unknown)*
+- [[seeds/Misc/simplejson-3-20-2-dist-info|simplejson-3.20.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/simplejson-3.20.2.dist-info` *(active)*
+- [[seeds/Misc/simplejson|simplejson]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/simplejson` *(active)*
+- [[seeds/Misc/simplex-intelligence|simplex-intelligence]] — `/Users/dibakarmallick/Downloads/simplex-intelligence` *(active)*
+- [[seeds/Misc/simplex-research-papers-copy|simplex research papers copy]] — `/Users/dibakarmallick/Desktop/simplex research papers copy` *(active)*
+- [[seeds/Misc/site-packages|site-packages]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages` *(active)*
+- [[seeds/Misc/six-1-17-0-dist-info|six-1.17.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/six-1.17.0.dist-info` *(active)*
+- [[seeds/Misc/skills|skills]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/skills` *(in-progress)*
+- [[seeds/Misc/smmap-5-0-3-dist-info|smmap-5.0.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/smmap-5.0.3.dist-info` *(active)*
+- [[seeds/Misc/smmap|smmap]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/smmap` *(active)*
+- [[seeds/Misc/snapshots|snapshots]] — `/Users/dibakarmallick/Desktop/openclaw-setup/doomsday-arch-20260420-R7K3X2/snapshots` *(active)*
+- [[seeds/Misc/snippets|snippets]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am/snippets` *(active)*
+- [[seeds/Misc/social_images|social_images]] — `/Users/dibakarmallick/Downloads/DuckDuckGo.app/Contents/Resources/social_images` *(active)*
+- [[seeds/Misc/src|src]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/apps/dashboard/src` *(unknown)*
+- [[seeds/Misc/steorra-edp|steorra-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/aesop/eau-de-parfum/steorra-edp` *(active)*
+- [[seeds/Misc/steps|steps]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/cli/src/steps` *(active)*
+- [[seeds/Misc/streamlit-1-56-0-dist-info|streamlit-1.56.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/streamlit-1.56.0.dist-info` *(active)*
+- [[seeds/Misc/streamlit|streamlit]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/streamlit` *(active)*
+- [[seeds/Misc/stress|stress]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/stress` *(archived)*
+- [[seeds/Misc/stub|stub]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/serviceworkers/stub` *(archived)*
+- [[seeds/Misc/stuhack-main-2|stuhack-main 2]] — `/Users/dibakarmallick/Downloads/stuhack-main 2` *(in-progress)*
+- [[seeds/Misc/stuhack-main|stuhack-main]] — `/Users/dibakarmallick/Downloads/stuhack-main` *(in-progress)*
+- [[seeds/Misc/support|support]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/cypress/support` *(in-progress)*
+- [[seeds/Misc/sw|sw]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/trace-viewer/src/sw` *(archived)*
+- [[seeds/Misc/system-monitor|system-monitor]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks/system-monitor` *(active)*
+- [[seeds/Misc/system|system]] — `/Users/dibakarmallick/Desktop/TenacitOS_Unified/src/app/api/system` *(active)*
+- [[seeds/Misc/systemd|systemd]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/deployment/systemd` *(in-progress)*
+- [[seeds/Misc/tables|tables]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/tables` *(in-progress)*
+- [[seeds/Misc/tacit-edp|tacit-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/aesop/perfume/tacit-edp` *(active)*
+- [[seeds/Misc/tag_pages|tag_pages]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/tag_pages` *(archived)*
+- [[seeds/Misc/tags|tags]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/tags` *(in-progress)*
+- [[seeds/Misc/tasks|tasks]] — `/Users/dibakarmallick/Desktop/openclaw-mission-control-unified/src/app/api/tasks` *(active)*
+- [[seeds/Misc/tbpu|tbpu]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/ocr/tbpu` *(archived)*
+- [[seeds/Misc/temp-template|temp template]] — `/Users/dibakarmallick/Documents/Sony/RAW Viewer/Settings/temp template` *(active)*
+- [[seeds/Misc/templates|templates]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/templates` *(in-progress)*
+- [[seeds/Misc/tenacitOS_chunks|tenacitOS_chunks]] — `/Users/dibakarmallick/Desktop/tenacitOS_chunks` *(active)*
+- [[seeds/Misc/tenacity-9-1-4-dist-info|tenacity-9.1.4.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/tenacity-9.1.4.dist-info` *(active)*
+- [[seeds/Misc/tenacity|tenacity]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/tenacity` *(active)*
+- [[seeds/Misc/terminal|terminal]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/terminal` *(active)*
+- [[seeds/Misc/test-api|test-api]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/docs/src/test-api` *(archived)*
+- [[seeds/Misc/test-extension|test-extension]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/tests/test-extension` *(archived)*
+- [[seeds/Misc/test|test]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/utils/generate_types/test` *(archived)*
+- [[seeds/Misc/testing|testing]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/testing` *(in-progress)*
+- [[seeds/Misc/tests|tests]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/tests` *(in-progress)*
+- [[seeds/Misc/thematcha-hand-cream|thematcha-hand-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/hand-cream/thematcha-hand-cream` *(active)*
+- [[seeds/Misc/thematcha26-hand-cream|thematcha26-hand-cream]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/hand-cream/thematcha26-hand-cream` *(active)*
+- [[seeds/Misc/theme_export__himavalley-com-feather__26APR2026-1252am|theme_export__himavalley-com-feather__26APR2026-1252am]] — `/Users/dibakarmallick/Desktop/himavalley/theme_export__himavalley-com-feather__26APR2026-1252am` *(unknown)*
+- [[seeds/Misc/thenoir29-body-lotion|thenoir29-body-lotion]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-hq/le-labo/body-lotion/thenoir29-body-lotion` *(active)*
+- [[seeds/Misc/thenoir29-edp|thenoir29-edp]] — `/Users/dibakarmallick/Downloads/mission control wtih 3 repo files/scraped-images-selenium/lelabo/perfume/thenoir29-edp` *(active)*
+- [[seeds/Misc/third_party|third_party]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/third_party` *(archived)*
+- [[seeds/Misc/tired-days-winter-pics|tired days winter pics]] — `/Users/dibakarmallick/Desktop/LINKEDIN POST/tired days winter pics` *(active)*
+- [[seeds/Misc/to-do-notifications|to-do-notifications]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/to-do-notifications` *(archived)*
+- [[seeds/Misc/toml-0-10-2-dist-info|toml-0.10.2.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/toml-0.10.2.dist-info` *(active)*
+- [[seeds/Misc/toml|toml]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/toml` *(active)*
+- [[seeds/Misc/tornado-6-5-5-dist-info|tornado-6.5.5.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/tornado-6.5.5.dist-info` *(active)*
+- [[seeds/Misc/tornado|tornado]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/tornado` *(active)*
+- [[seeds/Misc/transform|transform]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright/src/transform` *(archived)*
+- [[seeds/Misc/troubleshooting|troubleshooting]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/docs/troubleshooting` *(in-progress)*
+- [[seeds/Misc/types|types]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-core/types` *(archived)*
+- [[seeds/Misc/typing_extensions-4-15-0-dist-info|typing_extensions-4.15.0.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/typing_extensions-4.15.0.dist-info` *(active)*
+- [[seeds/Misc/ui-mode-test-tree-spec-ts|ui-mode-test-tree.spec.ts]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/playwright-test/__screenshots__/ui-mode-test-tree.spec.ts` *(archived)*
+- [[seeds/Misc/ui|ui]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/frontend/src/components/ui` *(in-progress)*
+- [[seeds/Misc/unit|unit]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/library/unit` *(archived)*
+- [[seeds/Misc/unlimited|unlimited]] — `/Users/dibakarmallick/Downloads/WFDownloaderApp_ARM-M1/jre/conf/security/policy/unlimited` *(archived)*
+- [[seeds/Misc/untitled-folder|untitled folder]] — `/Users/dibakarmallick/Desktop/untitled folder` *(archived)*
+- [[seeds/Misc/urllib3-2-6-3-dist-info|urllib3-2.6.3.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/urllib3-2.6.3.dist-info` *(active)*
+- [[seeds/Misc/urllib3|urllib3]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/urllib3` *(active)*
+- [[seeds/Misc/usr|usr]] — `/Users/dibakarmallick/Downloads/usr` *(unknown)*
+- [[seeds/Misc/utils|utils]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/utils` *(archived)*
+- [[seeds/Misc/vault|vault]] — `/Users/dibakarmallick/Desktop/simplex research papers copy/vault` *(active)*
+- [[seeds/Misc/versions|versions]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/migrations/versions` *(in-progress)*
+- [[seeds/Misc/visualizations|visualizations]] — `/Users/dibakarmallick/Desktop/Simplex research papers/visualizations` *(active)*
+- [[seeds/Misc/viz_env|viz_env]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env` *(active)*
+- [[seeds/Misc/voice|voice]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-unified/packages/assistant/src/voice` *(active)*
+- [[seeds/Misc/wasm|wasm]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/wasm` *(archived)*
+- [[seeds/Misc/webfont|webfont]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/webfont` *(archived)*
+- [[seeds/Misc/webhooks|webhooks]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/openclaw-mission-control-master/backend/app/services/webhooks` *(in-progress)*
+- [[seeds/Misc/webkit|webkit]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/webkit` *(archived)*
+- [[seeds/Misc/webview2-app|webview2-app]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/webview2/webview2-app` *(archived)*
+- [[seeds/Misc/webview2|webview2]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/webview2` *(archived)*
+- [[seeds/Misc/week-1_files|week 1_files]] — `/Users/dibakarmallick/Downloads/EK-TPR-Kaplan-Berkeley MCAT ALL-IN-ONE [~1.98GB~] FINAL RELEASE/10 Week ExamKrackers Schedule/week 1_files` *(in-progress)*
+- [[seeds/Misc/werkzeug-3-1-8-dist-info|werkzeug-3.1.8.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/werkzeug-3.1.8.dist-info` *(active)*
+- [[seeds/Misc/werkzeug|werkzeug]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/werkzeug` *(active)*
+- [[seeds/Misc/widgets|widgets]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/src/components/dashboard/widgets` *(active)*
+- [[seeds/Misc/wiki|wiki]] — `/Users/dibakarmallick/Desktop/mission control wtih 3 repo files/mission-control-main/wiki` *(active)*
+- [[seeds/Misc/win32|win32]] — `/Users/dibakarmallick/Downloads/hiroi-sora-Umi-OCR-6563ff0/UmiOCR-data/py_src/platform/win32` *(archived)*
+- [[seeds/Misc/winldd|winldd]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/browser_patches/winldd` *(archived)*
+- [[seeds/Misc/worker|worker]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/worker` *(archived)*
+- [[seeds/Misc/working-projects|working projects]] — `/Users/dibakarmallick/Desktop/working projects` *(unknown)*
+- [[seeds/Misc/wpt|wpt]] — `/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/tests/assets/wpt` *(archived)*
+- [[seeds/Misc/www-UIndex-org---------My-Wife-Is-A-Gangster-3--2006--1080p|www.UIndex.org    -    My Wife Is A Gangster 3 (2006) 1080p WEBRip-WORLD]] — `/Users/dibakarmallick/Downloads/www.UIndex.org    -    My Wife Is A Gangster 3 (2006) 1080p WEBRip-WORLD` *(in-progress)*
+- [[seeds/Misc/zipp-3-23-1-dist-info|zipp-3.23.1.dist-info]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/zipp-3.23.1.dist-info` *(active)*
+- [[seeds/Misc/zipp|zipp]] — `/Users/dibakarmallick/Desktop/Simplex research papers/viz_env/lib/python3.14/site-packages/zipp` *(active)*
