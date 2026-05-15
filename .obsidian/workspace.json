@@ -11,10 +11,10 @@
             "id": "1699b4e30d9725cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -179,23 +179,23 @@
   },
   "active": "1699b4e30d9725cf",
   "lastOpenFiles": [
+    "memory-brain/projects/doomsday-agent.md",
+    "memory-brain/projects/nerve.md",
+    "memory-brain/projects/mission-control.md",
+    "memory-brain/projects/workspace.md",
+    "memory-brain/preferences/design.md",
+    "memory-brain/preferences/active-context.md",
     "memory-brain/sessions/daily/2026-05-14-claude-desktop-setup.md",
     "memory-brain/projects/memory-system.md",
     "memory-brain/projects/hermes.md",
     "memory-brain/projects/OpenClaw-Medical-Skills.md",
-    "memory-brain/projects/doomsday-agent.md",
     "memory-brain/projects/personal-assistant.md",
-    "memory-brain/projects/mission-control.md",
     "memory-brain/preferences/workflow.md",
-    "memory-brain/preferences/design.md",
     "memory-brain/sessions/daily",
     "memory-brain/HOME.md",
     "memory-brain/sessions/README.md",
     "memory-brain/projects/openclaw.md",
-    "memory-brain/projects/workspace.md",
-    "memory-brain/projects/nerve.md",
     "memory-brain/projects/README.md",
-    "memory-brain/preferences/active-context.md",
     "memory-brain/preferences/README.md",
     "memory-brain/sessions",
     "memory-brain/projects",
