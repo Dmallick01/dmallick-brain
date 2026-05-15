@@ -3,6 +3,7 @@ title: "playwright-browser-webkit"
 category: Code
 status: archived
 tags: ["code", "nodejs", "javascript"]
+key_concepts: ["code", "nodejs", "javascript", "testing", "automation", "browser"]
 source_path: "/Users/dibakarmallick/Downloads/playwright-crx-0.15.0/playwright/packages/playwright-browser-webkit"
 created: "2026-05-15"
 seeded_by: claude-cowork
@@ -24,7 +25,15 @@ This package automatically installs [WebKit](https://www.webkit.org/) browser fo
 <!-- Add notes here -->
 
 ## Connections
-<!-- Link to related seeds or Obsidian nodes -->
+- [[07_Dev-Tools/playwright-browser-chromium]]
+- [[07_Dev-Tools/playwright-browser-firefox]]
+- [[07_Dev-Tools/playwright-webkit]]
+- [[07_Dev-Tools/playwright-ct-svelte]]
+- [[07_Dev-Tools/playwright-chromium]]
+- [[07_Dev-Tools/playwright-client]]
+- [[07_Dev-Tools/playwright-test-plugin]]
+- [[07_Dev-Tools/playwright-ct-react17]]
+
 
 ## Log
 - 2026-05-15T03:40:05: [claude-cowork] Auto-seeded from filesystem scan

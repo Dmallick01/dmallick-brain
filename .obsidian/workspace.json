@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seeds/01_AI-Projects/Mission-Control/basil-shower-gel.md",
+                "file": "seeds/04_Research-Science/plotly-6-7-0-dist-info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basil-shower-gel"
+              "title": "plotly-6-7-0-dist-info"
             }
           }
         ]
@@ -183,6 +183,9 @@
   },
   "active": "76e3c0cc88e98f64",
   "lastOpenFiles": [
+    "seeds/INDEX.md",
+    "seeds/01_AI-Projects/Mission-Control/i18n.md",
+    "seeds/01_AI-Projects/Mission-Control/basil-shower-gel.md",
     "seeds/01_AI-Projects/Mission-Control/__tests__.md",
     "seeds/08_App-Noise/The-15-Cent-Miracle---The-Most-Ruthless-Supply-Chain-on-Eart.md",
     "seeds/08_App-Noise/sample_papers.md",
@@ -206,9 +209,6 @@
     "seeds/08_App-Noise/compressed-1.md",
     "seeds/08_App-Noise/best.md",
     "seeds/08_App-Noise/kimi-webbridge-extension.md",
-    "seeds/08_App-Noise/SUBS-WEEK-2.md",
-    "seeds/08_App-Noise/frames-1773146804048.md",
-    "seeds/08_App-Noise/modules.md",
     "seeds/08_App-Noise",
     "seeds/07_Dev-Tools",
     "seeds/06_Claude-Automation",

@@ -3,6 +3,7 @@ title: "Photos-2"
 category: Misc
 status: archived
 tags: ["misc"]
+key_concepts: ["misc"]
 source_path: "/Users/dibakarmallick/Downloads/drive archieve/Photos-2"
 created: "2026-05-15"
 seeded_by: claude-cowork
@@ -24,7 +25,15 @@ No description found.
 <!-- Add notes here -->
 
 ## Connections
-<!-- Link to related seeds or Obsidian nodes -->
+- [[08_App-Noise/Photos-3]]
+- [[08_App-Noise/Photos-1-001-1]]
+- [[08_App-Noise/Photos]]
+- [[08_App-Noise/Photos-4]]
+- [[08_App-Noise/Fusion]]
+- [[08_App-Noise/es-lproj]]
+- [[08_App-Noise/B]]
+- [[08_App-Noise/nl-lproj]]
+
 
 ## Log
 - 2026-05-15T03:40:05: [claude-cowork] Auto-seeded from filesystem scan
