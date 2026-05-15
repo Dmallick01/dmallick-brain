@@ -11,17 +11,14 @@
             "id": "76e3c0cc88e98f64",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "memory-brain/preferences/design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "design"
             }
           }
         ]
@@ -184,8 +181,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "d17de7e23c9fc172",
+  "active": "76e3c0cc88e98f64",
   "lastOpenFiles": [
+    "unified-memory-graph/hermes.md",
+    "unified-memory-graph/memory-system.md",
+    "unified-memory-graph/nerve.md",
+    "unified-memory-graph/openclaw-medical-skills.md",
+    "unified-memory-graph/README.md",
+    "unified-memory-graph/personal-assistant.md",
+    "unified-memory-graph/readme-low.md",
+    "unified-memory-graph/readme-mid.md",
+    "unified-memory-graph/readme-top.md",
+    "unified-memory-graph/workflow.md",
+    "unified-memory-graph/workspace.md",
+    "Untitled.canvas",
     "unified-memory-graph/2026-05-14-claude-desktop-setup.md",
     "memory-brain/sessions/daily/2026-05-14-claude-desktop-setup.md",
     "memory-brain/HOME.md",
@@ -193,26 +202,13 @@
     "unified-memory-graph/design.md",
     "unified-memory-graph/doomsday-agent.md",
     "unified-memory-graph/graph-index.md",
-    "unified-memory-graph/hermes.md",
     "unified-memory-graph/home.md",
-    "unified-memory-graph/memory-system.md",
     "unified-memory-graph/mission-control.md",
-    "unified-memory-graph/nerve.md",
     "unified-memory-graph/openclaw.md",
-    "unified-memory-graph/openclaw-medical-skills.md",
-    "unified-memory-graph/personal-assistant.md",
-    "unified-memory-graph/README.md",
-    "unified-memory-graph/readme-low.md",
-    "unified-memory-graph/readme-mid.md",
-    "unified-memory-graph/readme-top.md",
-    "unified-memory-graph/workflow.md",
-    "unified-memory-graph/workspace.md",
-    "Untitled.canvas",
     "memory-brain/projects/hermes.md",
     "memory-brain/projects/OpenClaw-Medical-Skills.md",
     "memory-brain/preferences/workflow.md",
     "memory-brain/preferences/README.md",
-    "memory-brain/preferences/design.md",
     "memory-brain/sessions/daily",
     "memory-brain/sessions",
     "memory-brain/projects",
