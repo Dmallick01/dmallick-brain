@@ -11,10 +11,17 @@
             "id": "76e3c0cc88e98f64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -177,11 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "76e3c0cc88e98f64",
+  "active": "d17de7e23c9fc172",
   "lastOpenFiles": [
+    "unified-memory-graph/2026-05-14-claude-desktop-setup.md",
     "memory-brain/sessions/daily/2026-05-14-claude-desktop-setup.md",
     "memory-brain/HOME.md",
-    "unified-memory-graph/2026-05-14-claude-desktop-setup.md",
     "unified-memory-graph/active-context.md",
     "unified-memory-graph/design.md",
     "unified-memory-graph/doomsday-agent.md",
