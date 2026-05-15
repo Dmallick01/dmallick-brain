@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory-brain/projects/OpenClaw-Medical-Skills.md",
+                "file": "memory-brain/projects/hermes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw-Medical-Skills"
+              "title": "hermes"
             }
           }
         ]
@@ -183,6 +183,7 @@
   },
   "active": "76e3c0cc88e98f64",
   "lastOpenFiles": [
+    "memory-brain/projects/OpenClaw-Medical-Skills.md",
     "memory-brain/preferences/workflow.md",
     "memory-brain/preferences/README.md",
     "memory-brain/preferences/design.md",
@@ -194,7 +195,6 @@
     "memory-brain/projects/workspace.md",
     "memory-brain/projects/memory-system.md",
     "memory-brain/projects/hermes.md",
-    "memory-brain/projects/OpenClaw-Medical-Skills.md",
     "memory-brain/projects/personal-assistant.md",
     "memory-brain/sessions/daily",
     "memory-brain/HOME.md",
