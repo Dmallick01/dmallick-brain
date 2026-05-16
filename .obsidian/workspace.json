@@ -11,10 +11,17 @@
             "id": "76e3c0cc88e98f64",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -179,6 +186,10 @@
   },
   "active": "76e3c0cc88e98f64",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "seeds/01_AI-Projects/TenacitOS/agent-management.md",
+    "seeds/08_App-Noise/B.md",
+    "seeds/01_AI-Projects/TenacitOS/file-knowledge.md",
     "seeds/08_App-Noise/Permissions-momd.md",
     "seeds/07_Dev-Tools/utils.md",
     "seeds/05_Creative-Media/Social-Content/grad-me.md",
@@ -187,7 +198,6 @@
     "seeds/07_Dev-Tools/transform.md",
     "seeds/08_App-Noise/Photos-2.md",
     "seeds/08_App-Noise/Photos-3.md",
-    "seeds/08_App-Noise/B.md",
     "seeds/04_Research-Science/plotly-6-7-0-dist-info.md",
     "seeds/INDEX.md",
     "seeds/01_AI-Projects/Mission-Control/i18n.md",
@@ -202,9 +212,6 @@
     "seeds/08_App-Noise/launchers.md",
     "seeds/08_App-Noise/SUBS.md",
     "seeds/08_App-Noise/XIE-PHARMACEUTICAL-CHEMISTRY.md",
-    "seeds/08_App-Noise/working-projects.md",
-    "seeds/08_App-Noise/icon.md",
-    "seeds/08_App-Noise/data-cbb3ee87-7b8d-474c-ae5c-c38a14e910b3-1776394700-63b5ed0.md",
     "seeds/08_App-Noise",
     "seeds/07_Dev-Tools",
     "seeds/06_Claude-Automation",
